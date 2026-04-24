@@ -12,7 +12,7 @@ API_BASE_URL = "https://api.developers.italia.it/v1"
 
 
 def absolute_url(url, repo):
-    repo = re.sub('.git$', '', repo.lower())
+    repo = re.sub(".git$", "", repo.lower())
 
     if not url or url.lower().startswith(("http://", "https://")):
         return url
@@ -53,6 +53,7 @@ def get_software():
         for item in body.get("data", []):
             yield item
 
+
 def download_file(url, filename):
     os.makedirs(os.path.dirname(filename), exist_ok=True)
 
@@ -60,20 +61,24 @@ def download_file(url, filename):
         with requests.get(url, stream=True) as response:
             response.raise_for_status()
 
-            with open(filename, 'wb') as file:
-                for chunk in response.iter_content(chunk_size=64*1024): 
+            with open(filename, "wb") as file:
+                for chunk in response.iter_content(chunk_size=64 * 1024):
                     if chunk:
                         file.write(chunk)
 
     except requests.RequestException as e:
         print(f"Error downloading {url}", e)
 
+
 if __name__ == "__main__":
     for software in get_software():
         try:
             publiccode = yaml.safe_load(software["publiccodeYml"])
         except (yaml.YAMLError, ValueError) as e:
-            print(f"Error parsing YAML ({API_BASE_URL}/software/{software["id"]}): {e}", file=sys.stderr)
+            print(
+                f"Error parsing YAML ({API_BASE_URL}/software/{software["id"]}): {e}",
+                file=sys.stderr,
+            )
             continue
 
         logo = publiccode.get("logo", None)
