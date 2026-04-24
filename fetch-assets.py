@@ -8,7 +8,7 @@ from urllib.parse import urlparse
 import requests
 import yaml
 
-API_BASE_URL = "https://api.developers.italia.it/v1"
+API_BASE_URL = "https://static.139.5.238.62.clients.your-server.de/v1"
 
 
 def absolute_url(url, repo):
