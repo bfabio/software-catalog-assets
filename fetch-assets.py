@@ -81,11 +81,21 @@ if __name__ == "__main__":
             )
             continue
 
+        repo_url = publiccode["url"]
+
+        urls = []
+
         logo = publiccode.get("logo", None)
         if logo:
-            logo = absolute_url(logo, publiccode["url"])
+            urls.append(logo)
 
-            hash = hashlib.sha1(logo.encode("utf-8")).hexdigest()
-            _, ext = os.path.splitext(logo)
+        for lang_data in publiccode.get("description", {}).values():
+            urls.extend(lang_data.get("screenshots", []))
 
-            download_file(logo, f"{hash[:2]}/{hash[2:]}{ext}")
+        for url in urls:
+            url = absolute_url(url, repo_url)
+
+            hash = hashlib.sha1(url.encode("utf-8")).hexdigest()
+            _, ext = os.path.splitext(url)
+
+            download_file(url, f"{hash[:2]}/{hash[2:]}{ext}")
