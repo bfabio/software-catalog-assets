@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<head>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="k8WyF2Szt_NrOrK0bOzRZnrZNQFPprpMv25FEGyJk05FtgY_VHUJM_0j6rGyABSR4XDDCMR1W4stXjaD0IV-EQ" />
+</head>
+<body>
+<form action="/users/auth/openid_connect" method="post" style="display:none">
+<input name="authenticity_token">
+</form>
+<script>
+//<![CDATA[
+const csrfToken = document.querySelector('meta[name=csrf-token]').getAttribute('content');
+document.querySelector('input[name=authenticity_token]').value = csrfToken;
+document.querySelector('form').submit();
+
+//]]>
+</script></body>

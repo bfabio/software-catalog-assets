@@ -1,0 +1,2111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generiert durch Microsoft Visio, SVG Export hh-udp-iot-helm-chart v3-2-x.svg full -->
+
+<svg
+   width="16.073452in"
+   height="7.1155863in"
+   viewBox="0 0 1157.2902 512.32273"
+   xml:space="preserve"
+   color-interpolation-filters="sRGB"
+   class="st27"
+   version="1.1"
+   id="svg623"
+   sodipodi:docname="hh-udp-iot-helm-chart v3-2-x.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"><sodipodi:namedview
+   id="namedview625"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:pageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:document-units="in"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="0.41964444"
+   inkscape:cx="1593.0153"
+   inkscape:cy="-44.08494"
+   inkscape:window-width="2400"
+   inkscape:window-height="1421"
+   inkscape:window-x="890"
+   inkscape:window-y="-1515"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg623" />
+	<v:documentProperties
+   v:langID="1031"
+   v:metric="true"
+   v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud
+   v:nameU="msvNoAutoConnect"
+   v:val="VT0(1):26" />
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style
+   type="text/css"
+   id="style2">
+	<![CDATA[
+		.st1 {fill:#d9958f;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;font-family:Calibri;font-size:1.00001em}
+		.st3 {fill:#92cddc;stroke:#000000;stroke-dasharray:3.5,2.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st4 {fill:#000000;font-family:Calibri;font-size:0.833336em}
+		.st5 {font-size:1em}
+		.st6 {fill:#fee599;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st7 {fill:#fee599;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st8 {fill:#ffd965;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st9 {marker-end:url(#mrkr13-31);stroke:#000000;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st10 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st11 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st12 {fill:#000000;font-family:Calibri;font-size:0.666664em}
+		.st13 {fill:#92cddc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st14 {marker-start:url(#mrkr13-47);stroke:#000000;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st15 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st16 {marker-end:url(#mrkr13-31);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st17 {fill:#fee599;stroke:#000000;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st18 {fill:#ffd965;stroke:#000000;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st19 {marker-end:url(#mrkr13-31);marker-start:url(#mrkr13-47);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st20 {fill:#d7e3bf;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st21 {fill:#789440;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st22 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st23 {fill:#92cddc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st24 {fill:#d7e3bf;stroke:#000000;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st25 {fill:#789440;stroke:#000000;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st26 {fill:#92cddc;stroke:#000000;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st27 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs
+   id="Markers">
+		<g
+   id="lend13">
+			<path
+   d="M 3,1 0,0 3,-1 v 2"
+   style="stroke:none"
+   id="path4" />
+		</g>
+		<marker
+   id="mrkr13-31"
+   class="st10"
+   v:arrowType="13"
+   v:arrowSize="2"
+   v:setback="13.08"
+   refX="-13.08"
+   orient="auto"
+   markerUnits="strokeWidth"
+   overflow="visible">
+			<use
+   xlink:href="#lend13"
+   transform="scale(-4.36)"
+   id="use7"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+		</marker>
+		<marker
+   id="mrkr13-47"
+   class="st10"
+   v:arrowType="13"
+   v:arrowSize="2"
+   v:setback="12.6"
+   refX="12.6"
+   orient="auto"
+   markerUnits="strokeWidth"
+   overflow="visible">
+			<use
+   xlink:href="#lend13"
+   transform="scale(4.36)"
+   id="use10"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+		</marker>
+	</defs>
+	<g
+   v:mID="0"
+   v:index="1"
+   v:groupContext="foregroundPage"
+   id="g621"
+   transform="translate(-697.798,-99.09)">
+		<title
+   id="title14">full</title>
+		<v:pageProperties
+   v:drawingScale="0.0393701"
+   v:pageScale="0.0393701"
+   v:drawingUnits="24"
+   v:shadowOffsetX="8.50394"
+   v:shadowOffsetY="-8.50394" />
+		<v:layer
+   v:name="Verbinder"
+   v:index="0" />
+		<g
+   id="shape1-1"
+   v:mID="1"
+   v:groupContext="shape"
+   transform="translate(698.173,-684)">
+			<title
+   id="title16">Kubernetes</title>
+			<desc
+   id="desc18">kubernetes</desc>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197"
+   v:verticalAlign="2" />
+			<v:textRect
+   cx="578.268"
+   cy="975.969"
+   width="1156.54"
+   height="357.165" />
+			<rect
+   x="0"
+   y="797.38599"
+   width="1156.54"
+   height="357.16501"
+   class="st1"
+   id="rect20" />
+			<text
+   x="4"
+   y="1146.95"
+   class="st2"
+   v:langID="1031"
+   id="text22"><v:paragraph /><v:tabList />kubernetes</text>		</g>
+		<g
+   id="group23-4"
+   transform="translate(1337.39,-595.967)"
+   v:mID="23"
+   v:groupContext="group">
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+			</v:userDefs>
+			<title
+   id="title25">Persistent Volume</title>
+			<desc
+   id="desc27">PostgreSQL Database Server standby</desc>
+			<g
+   id="shape24-5"
+   v:mID="24"
+   v:groupContext="shape">
+				<title
+   id="title29">Tabelle.24</title>
+				<v:userDefs>
+					<v:ud
+   v:nameU="ControlHalfHeight"
+   v:prompt=""
+   v:val="VT0(0.081249998956919):1" />
+					<v:ud
+   v:nameU="FillForegnd"
+   v:prompt=""
+   v:val="VT5(#92cddc)" />
+				</v:userDefs>
+				<path
+   d="m 0,1148.7 a 40.395,5.8501883 -180 1 0 80.79,0 v -46.8 H 0 Z"
+   class="st3"
+   id="path31" />
+			</g>
+			<g
+   id="shape23-7"
+   v:mID="23"
+   v:groupContext="groupContent">
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="40.3937"
+   cy="1125.3"
+   width="80.79"
+   height="58.5" />
+				<ellipse
+   cx="40.3937"
+   cy="1101.9"
+   rx="40.3937"
+   ry="5.8499999"
+   class="st3"
+   id="ellipse34" />
+				<text
+   x="17.200001"
+   y="1116.3"
+   class="st4"
+   v:langID="1031"
+   id="text40"><v:paragraph
+   v:horizAlign="1" /><v:tabList />PostgreSQL <tspan
+   x="7.2399998"
+   dy="1.2em"
+   class="st5"
+   id="tspan36">Database Server<v:newlineChar /></tspan><tspan
+   x="26.73"
+   dy="1.2em"
+   class="st5"
+   id="tspan38">standby</tspan></text>			</g>
+		</g>
+		<g
+   id="shape35-12"
+   v:mID="35"
+   v:groupContext="shape"
+   transform="translate(1318.96,-1023.84)">
+			<title
+   id="title44">Ingress</title>
+			<desc
+   id="desc46">https://iot.hamburg.de:443</desc>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="68.0315"
+   cy="1138.8"
+   width="136.07"
+   height="31.5" />
+			<path
+   d="m 0,1154.55 h 122.46 l 13.6,-31.5 H 13.61 Z"
+   class="st6"
+   id="path48" />
+			<text
+   x="11.87"
+   y="1141.8"
+   class="st4"
+   v:langID="1031"
+   id="text50"><v:paragraph
+   v:horizAlign="1" /><v:tabList />https://iot.hamburg.de:443</text>		</g>
+		<g
+   id="group36-15"
+   transform="translate(1301.95,-943.636)"
+   v:mID="36"
+   v:groupContext="group">
+			<title
+   id="title53">service</title>
+			<g
+   id="shape37-16"
+   v:mID="37"
+   v:groupContext="shape"
+   transform="translate(6.23031,17.0079)">
+				<title
+   id="title55">Tabelle.37</title>
+				<desc
+   id="desc57">{RELEASE}-hh-udp-iot-http-external</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="81.1447"
+   cy="1132.55"
+   width="162.29"
+   height="44.0079" />
+				<ellipse
+   cx="81.144699"
+   cy="1132.55"
+   rx="81.144699"
+   ry="22.003901"
+   class="st7"
+   id="ellipse59" />
+				<text
+   x="14.75"
+   y="1128.95"
+   class="st2"
+   v:langID="1031"
+   id="text63"><v:paragraph
+   v:horizAlign="1" /><v:tabList />{RELEASE}-hh-udp-iot-http-<tspan
+   x="61.07"
+   dy="1.2em"
+   class="st5"
+   id="tspan61">external</tspan></text>			</g>
+			<g
+   id="shape38-20"
+   v:mID="38"
+   v:groupContext="shape"
+   transform="translate(-15.0295,-3.50787)">
+				<title
+   id="title66">pod-1.35</title>
+				<desc
+   id="desc68">NP</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="12.375"
+   cy="1147.8"
+   width="24.76"
+   height="13.5" />
+				<rect
+   x="0"
+   y="1141.05"
+   width="24.75"
+   height="13.5"
+   class="st8"
+   id="rect70" />
+				<text
+   x="5.4000001"
+   y="1151.4"
+   class="st2"
+   v:langID="1031"
+   id="text72"><v:paragraph
+   v:horizAlign="1" /><v:tabList />NP</text>			</g>
+			<g
+   id="shape39-23"
+   v:mID="39"
+   v:groupContext="shape"
+   transform="translate(60.0886,-21.9331)">
+				<title
+   id="title75">pod-1.34</title>
+				<desc
+   id="desc77">80</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="20.25"
+   cy="1147.8"
+   width="40.51"
+   height="13.5" />
+				<rect
+   x="0"
+   y="1141.05"
+   width="40.5"
+   height="13.5"
+   class="st8"
+   id="rect79" />
+				<text
+   x="14.17"
+   y="1151.4"
+   class="st2"
+   v:langID="1031"
+   id="text81"><v:paragraph
+   v:horizAlign="1" /><v:tabList />80</text>			</g>
+		</g>
+		<g
+   id="shape40-26"
+   v:mID="40"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(1377.78,-654.467)">
+			<title
+   id="title85">Dynamischer Verbinder</title>
+			<desc
+   id="desc87">read</desc>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="-61.4317"
+   cy="1136.89"
+   width="40"
+   height="17.6036" />
+			<path
+   d="m 0,1154.55 v -17.66 h -63.58 v -67.13"
+   class="st9"
+   id="path89" />
+			<rect
+   v:rectContext="textBkgnd"
+   x="-68.8339"
+   y="1132.09"
+   width="14.8046"
+   height="9.5998497"
+   class="st11"
+   id="rect91" />
+			<text
+   x="-68.830002"
+   y="1139.29"
+   class="st12"
+   v:langID="1031"
+   id="text93"><v:paragraph
+   v:horizAlign="1" /><v:tabList />read</text>		</g>
+		<g
+   id="group43-34"
+   transform="translate(1624.33,-595.967)"
+   v:mID="43"
+   v:groupContext="group">
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+			</v:userDefs>
+			<title
+   id="title96">Persistent Volume.43</title>
+			<desc
+   id="desc98">PostgreSQL Database Server primary</desc>
+			<g
+   id="shape44-35"
+   v:mID="44"
+   v:groupContext="shape">
+				<title
+   id="title100">Tabelle.44</title>
+				<v:userDefs>
+					<v:ud
+   v:nameU="ControlHalfHeight"
+   v:prompt=""
+   v:val="VT0(0.081249998956919):1" />
+					<v:ud
+   v:nameU="FillForegnd"
+   v:prompt=""
+   v:val="VT5(#92cddc)" />
+				</v:userDefs>
+				<path
+   d="m 0,1148.7 a 40.395,5.8501883 -180 1 0 80.79,0 v -46.8 H 0 Z"
+   class="st13"
+   id="path102" />
+			</g>
+			<g
+   id="shape43-37"
+   v:mID="43"
+   v:groupContext="groupContent">
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="40.3937"
+   cy="1125.3"
+   width="80.79"
+   height="58.5" />
+				<ellipse
+   cx="40.3937"
+   cy="1101.9"
+   rx="40.3937"
+   ry="5.8499999"
+   class="st13"
+   id="ellipse105" />
+				<text
+   x="17.200001"
+   y="1116.3"
+   class="st4"
+   v:langID="1031"
+   id="text111"><v:paragraph
+   v:horizAlign="1" /><v:tabList />PostgreSQL <tspan
+   x="7.2399998"
+   dy="1.2em"
+   class="st5"
+   id="tspan107">Database Server<v:newlineChar /></tspan><tspan
+   x="30.23"
+   dy="1.2em"
+   class="st5"
+   id="tspan109">primary</tspan></text>			</g>
+		</g>
+		<g
+   id="shape45-42"
+   v:mID="45"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(1747.85,-748.85)">
+			<title
+   id="title115">Dynamischer Verbinder.45</title>
+			<desc
+   id="desc117">read &amp; write</desc>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="15.5604"
+   cy="1221.33"
+   width="40"
+   height="27.2035" />
+			<path
+   d="m 0,1164 v 0.36 113.82 h -42.73"
+   class="st14"
+   id="path119" />
+			<rect
+   v:rectContext="textBkgnd"
+   x="4.52529"
+   y="1211.73"
+   width="22.0702"
+   height="19.199699"
+   class="st15"
+   id="rect121" />
+			<text
+   x="4.5300002"
+   y="1218.9301"
+   class="st12"
+   v:langID="1031"
+   id="text125"><v:paragraph
+   v:horizAlign="1" /><v:tabList />read &amp;<v:newlineChar /><tspan
+   x="7.0599999"
+   dy="1.2em"
+   class="st5"
+   id="tspan123">write</tspan></text>		</g>
+		<g
+   id="shape46-51"
+   v:mID="46"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(1418.17,-618.13)">
+			<title
+   id="title128">Dynamischer Verbinder.46</title>
+			<desc
+   id="desc130">Streaming replication</desc>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="103.081"
+   cy="1147.46"
+   width="79.57"
+   height="17.6036" />
+			<path
+   d="M 9.45,1147.46 H 9.81 206.16"
+   class="st14"
+   id="path132" />
+			<rect
+   v:rectContext="textBkgnd"
+   x="68.202499"
+   y="1142.66"
+   width="69.756599"
+   height="9.5998497"
+   class="st15"
+   id="rect134" />
+			<text
+   x="68.199997"
+   y="1149.86"
+   class="st12"
+   v:langID="1031"
+   id="text136"><v:paragraph
+   v:horizAlign="1" /><v:tabList />Streaming replication</text>		</g>
+		<g
+   id="shape47-58"
+   v:mID="47"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(1373.1,-1023.84)">
+			<title
+   id="title139">Dynamischer Verbinder.47</title>
+			<path
+   d="m 7.09,1154.55 v 34.96"
+   class="st16"
+   id="path141" />
+		</g>
+		<g
+   id="shape53-63"
+   v:mID="53"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(1375.87,-926.696)">
+			<title
+   id="title144">Dynamischer Verbinder.53</title>
+			<path
+   d="m 7.09,1154.55 v 43.63"
+   class="st16"
+   id="path146" />
+		</g>
+		<g
+   id="group54-68"
+   transform="translate(1591.45,-933.289)"
+   v:mID="54"
+   v:groupContext="group">
+			<title
+   id="title149">service.54</title>
+			<g
+   id="shape55-69"
+   v:mID="55"
+   v:groupContext="shape"
+   transform="translate(1.24016,11.089)">
+				<title
+   id="title151">Tabelle.55</title>
+				<desc
+   id="desc153">{RELEASE}-hh-udp-iot-http-internal</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="81.0177"
+   cy="1133.42"
+   width="162.04"
+   height="42.2701" />
+				<ellipse
+   cx="81.0177"
+   cy="1133.42"
+   rx="81.0177"
+   ry="21.135099"
+   class="st17"
+   id="ellipse155" />
+				<text
+   x="14.62"
+   y="1129.8199"
+   class="st2"
+   v:langID="1031"
+   id="text159"><v:paragraph
+   v:horizAlign="1" /><v:tabList />{RELEASE}-hh-udp-iot-http-<tspan
+   x="62"
+   dy="1.2em"
+   class="st5"
+   id="tspan157">internal</tspan></text>			</g>
+			<g
+   id="shape56-73"
+   v:mID="56"
+   v:groupContext="shape"
+   transform="translate(-14.9262,-4.9252)">
+				<title
+   id="title162">pod-1.35</title>
+				<desc
+   id="desc164">LB</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="12.375"
+   cy="1147.8"
+   width="24.76"
+   height="13.5" />
+				<path
+   d="m 0,1154.55 h 24.75 v -13.5 H 0 Z"
+   class="st18"
+   id="path166" />
+				<text
+   x="6.5900002"
+   y="1151.4"
+   class="st2"
+   v:langID="1031"
+   id="text168"><v:paragraph
+   v:horizAlign="1" /><v:tabList />LB</text>			</g>
+			<g
+   id="shape57-76"
+   v:mID="57"
+   v:groupContext="shape"
+   transform="translate(64.6654,-26.9291)">
+				<title
+   id="title171">pod-1.34</title>
+				<desc
+   id="desc173">80</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="20.25"
+   cy="1147.8"
+   width="40.51"
+   height="13.5" />
+				<path
+   d="m 0,1154.55 h 40.5 v -13.5 H 0 Z"
+   class="st18"
+   id="path175" />
+				<text
+   x="14.17"
+   y="1151.4"
+   class="st2"
+   v:langID="1031"
+   id="text177"><v:paragraph
+   v:horizAlign="1" /><v:tabList />80</text>			</g>
+		</g>
+		<g
+   id="shape59-79"
+   v:mID="59"
+   v:groupContext="shape"
+   transform="translate(1629.86,-1023.84)">
+			<title
+   id="title181">Ingress.59</title>
+			<desc
+   id="desc183">{internal subnet IP}</desc>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="54"
+   cy="1138.8"
+   width="108"
+   height="31.5" />
+			<path
+   d="m 0,1154.55 h 97.2 l 10.8,-31.5 H 10.8 Z"
+   class="st6"
+   id="path185" />
+			<text
+   x="14.9"
+   y="1141.8"
+   class="st4"
+   v:langID="1031"
+   id="text187"><v:paragraph
+   v:horizAlign="1" /><v:tabList />{internal subnet IP}</text>		</g>
+		<g
+   id="shape60-82"
+   v:mID="60"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(1671.38,-1023.84)">
+			<title
+   id="title190">Dynamischer Verbinder.60</title>
+			<path
+   d="m 7.09,1154.55 v 40.31"
+   class="st16"
+   id="path192" />
+		</g>
+		<g
+   id="shape61-87"
+   v:mID="61"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(1668.27,-922.205)">
+			<title
+   id="title195">Dynamischer Verbinder.61</title>
+			<path
+   d="m 7.09,1154.55 v 39.36"
+   class="st16"
+   id="path197" />
+		</g>
+		<g
+   id="shape62-92"
+   v:mID="62"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(1455.45,-749.068)">
+			<title
+   id="title200">Dynamischer Verbinder.62</title>
+			<desc
+   id="desc202">read &amp; write</desc>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="71.0383"
+   cy="1235.45"
+   width="50.7"
+   height="17.6036" />
+			<path
+   d="m 0,1164 v 0.36 71.09 h 209.28 v 3.89"
+   class="st19"
+   id="path204" />
+			<rect
+   v:rectContext="textBkgnd"
+   x="50.597301"
+   y="1230.65"
+   width="40.882301"
+   height="9.5998497"
+   class="st15"
+   id="rect206" />
+			<text
+   x="50.599998"
+   y="1237.85"
+   class="st12"
+   v:langID="1031"
+   id="text208"><v:paragraph
+   v:horizAlign="1" /><v:tabList />read &amp; write</text>		</g>
+		<g
+   id="shape80-101"
+   v:mID="80"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(1152.79,-755.486)">
+			<title
+   id="title211">Dynamischer Verbinder.80</title>
+			<desc
+   id="desc213">read &amp; write</desc>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="176.211"
+   cy="1342"
+   width="50.7"
+   height="17.6036" />
+			<path
+   d="m 0,1164 v 0.36 177.64 h 511.94 v -18.12"
+   class="st19"
+   id="path215" />
+			<rect
+   v:rectContext="textBkgnd"
+   x="155.77"
+   y="1337.2"
+   width="40.882301"
+   height="9.5998497"
+   class="st15"
+   id="rect217" />
+			<text
+   x="155.77"
+   y="1344.4"
+   class="st12"
+   v:langID="1031"
+   id="text219"><v:paragraph
+   v:horizAlign="1" /><v:tabList />read &amp; write</text>		</g>
+		<g
+   id="shape98-110"
+   v:mID="98"
+   v:groupContext="shape"
+   transform="translate(727.146,-1023.84)">
+			<title
+   id="title222">Ingress.98</title>
+			<desc
+   id="desc224">https://iot.hamburg.de:1883</desc>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="77.6398"
+   cy="1138.8"
+   width="155.28"
+   height="31.5" />
+			<path
+   d="m 0,1154.55 h 139.75 l 15.53,-31.5 H 15.53 Z"
+   class="st6"
+   id="path226" />
+			<text
+   x="18.940001"
+   y="1141.8"
+   class="st4"
+   v:langID="1031"
+   id="text228"><v:paragraph
+   v:horizAlign="1" /><v:tabList />https://iot.hamburg.de:1883</text>		</g>
+		<g
+   id="shape103-113"
+   v:mID="103"
+   v:groupContext="shape"
+   transform="translate(882.425,-1023.84)">
+			<title
+   id="title231">Ingress.103</title>
+			<desc
+   id="desc233">https://iot.hamburg.de:443/mqtt</desc>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="82.2047"
+   cy="1138.8"
+   width="164.41"
+   height="31.5" />
+			<path
+   d="m 0,1154.55 h 147.97 l 16.44,-31.5 H 16.44 Z"
+   class="st6"
+   id="path235" />
+			<text
+   x="14.14"
+   y="1141.8"
+   class="st4"
+   v:langID="1031"
+   id="text237"><v:paragraph
+   v:horizAlign="1" /><v:tabList />https://iot.hamburg.de:443/mqtt</text>		</g>
+		<g
+   id="group107-116"
+   transform="translate(735.024,-935.708)"
+   v:mID="107"
+   v:groupContext="group">
+			<title
+   id="title240">Tabelle.107</title>
+			<g
+   id="group99-117"
+   v:mID="99"
+   v:groupContext="group">
+				<title
+   id="title242">service.99</title>
+				<g
+   id="shape100-118"
+   v:mID="100"
+   v:groupContext="shape"
+   transform="translate(38.3078,12.9641)">
+					<title
+   id="title244">Tabelle.100</title>
+					<desc
+   id="desc246">{RELEASE}-hh-udp-iot-mqtt</desc>
+					<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+					<v:textRect
+   cx="98.0292"
+   cy="1128.62"
+   width="196.06"
+   height="51.8563" />
+					<ellipse
+   cx="98.029198"
+   cy="1128.62"
+   rx="98.029198"
+   ry="25.9282"
+   class="st7"
+   id="ellipse248" />
+					<text
+   x="31.83"
+   y="1132.22"
+   class="st2"
+   v:langID="1031"
+   id="text250"><v:paragraph
+   v:horizAlign="1" /><v:tabList />{RELEASE}-hh-udp-iot-mqtt</text>				</g>
+				<g
+   id="shape101-121"
+   v:mID="101"
+   v:groupContext="shape"
+   transform="translate(17.0079,-7.15895)">
+					<title
+   id="title253">pod-1.35</title>
+					<desc
+   id="desc255">NP</desc>
+					<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+					<v:textRect
+   cx="17.0079"
+   cy="1146.7"
+   width="34.02"
+   height="15.6976" />
+					<rect
+   x="0"
+   y="1138.85"
+   width="34.015701"
+   height="15.6976"
+   class="st8"
+   id="rect257" />
+					<text
+   x="10.04"
+   y="1150.3"
+   class="st2"
+   v:langID="1031"
+   id="text259"><v:paragraph
+   v:horizAlign="1" /><v:tabList />NP</text>				</g>
+				<g
+   id="shape102-124"
+   v:mID="102"
+   v:groupContext="shape"
+   transform="translate(84.2771,-32.4102)">
+					<title
+   id="title262">pod-1.34</title>
+					<desc
+   id="desc264">1883</desc>
+					<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+					<v:textRect
+   cx="21.641"
+   cy="1144.83"
+   width="43.29"
+   height="19.4461" />
+					<rect
+   x="0"
+   y="1135.11"
+   width="43.281898"
+   height="19.4461"
+   class="st8"
+   id="rect266" />
+					<text
+   x="9.4799995"
+   y="1148.4301"
+   class="st2"
+   v:langID="1031"
+   id="text268"><v:paragraph
+   v:horizAlign="1" /><v:tabList />1883</text>				</g>
+			</g>
+			<g
+   id="shape106-127"
+   v:mID="106"
+   v:groupContext="shape"
+   transform="translate(142.18,-31.7569)">
+				<title
+   id="title272">pod-1.34</title>
+				<desc
+   id="desc274">9876</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="21.4905"
+   cy="1144.83"
+   width="42.99"
+   height="19.4461" />
+				<rect
+   x="0"
+   y="1135.11"
+   width="42.9809"
+   height="19.4461"
+   class="st8"
+   id="rect276" />
+				<text
+   x="9.3299999"
+   y="1148.4301"
+   class="st2"
+   v:langID="1031"
+   id="text278"><v:paragraph
+   v:horizAlign="1" /><v:tabList />9876</text>			</g>
+		</g>
+		<g
+   id="shape108-130"
+   v:mID="108"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(806.326,-927.759)">
+			<title
+   id="title282">Dynamischer Verbinder.108</title>
+			<path
+   d="m 7.09,1154.55 v 41.37"
+   class="st16"
+   id="path284" />
+		</g>
+		<g
+   id="shape109-135"
+   v:mID="109"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(888.649,-923.558)">
+			<title
+   id="title287">Dynamischer Verbinder.109</title>
+			<path
+   d="m 7.09,1154.55 v 37.17"
+   class="st16"
+   id="path289" />
+		</g>
+		<g
+   id="shape110-140"
+   v:mID="110"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(956.409,-1023.84)">
+			<title
+   id="title292">Dynamischer Verbinder.110</title>
+			<path
+   d="m 0,1154.55 v 46.65 h -26.41"
+   class="st16"
+   id="path294" />
+		</g>
+		<g
+   id="shape111-145"
+   v:mID="111"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(797.021,-1023.84)">
+			<title
+   id="title297">Dynamischer Verbinder.111</title>
+			<path
+   d="m 0,1154.55 v 46 h 12.47"
+   class="st16"
+   id="path299" />
+		</g>
+		<g
+   id="group112-150"
+   transform="translate(1058.94,-748.619)"
+   v:mID="112"
+   v:groupContext="group">
+			<title
+   id="title302">pod-1.112</title>
+			<g
+   id="shape113-151"
+   v:mID="113"
+   v:groupContext="shape"
+   transform="translate(16.2058,-6.8667)">
+				<title
+   id="title304">Tabelle.113</title>
+				<desc
+   id="desc306">{RELEASE}-hh-udp-iot-bus</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197"
+   v:verticalAlign="0" />
+				<v:textRect
+   cx="77.6398"
+   cy="1107.84"
+   width="155.28"
+   height="93.4238" />
+				<rect
+   x="0"
+   y="1061.13"
+   width="155.28"
+   height="93.423798"
+   class="st20"
+   id="rect308" />
+				<text
+   x="14.76"
+   y="1075.9301"
+   class="st2"
+   v:langID="1031"
+   id="text310"><v:paragraph
+   v:horizAlign="1" /><v:tabList />{RELEASE}-hh-udp-iot-bus</text>			</g>
+			<g
+   id="shape114-154"
+   v:mID="114"
+   v:groupContext="shape"
+   transform="translate(48.7795,-24.3511)">
+				<title
+   id="title313">Tabelle.114</title>
+				<desc
+   id="desc315">FROST-Server bus</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="47.5098"
+   cy="1131.76"
+   width="95.02"
+   height="45.5866" />
+				<rect
+   x="0"
+   y="1108.96"
+   width="95.019699"
+   height="45.586601"
+   class="st21"
+   id="rect317" />
+				<text
+   x="4.3800001"
+   y="1135.36"
+   class="st2"
+   v:langID="1031"
+   id="text319"><v:paragraph
+   v:horizAlign="1" /><v:tabList />FROST-Server bus</text>			</g>
+			<g
+   id="shape115-157"
+   v:mID="115"
+   v:groupContext="shape"
+   transform="translate(70.8661,-99.3482)">
+				<title
+   id="title322">Tabelle.115</title>
+				<desc
+   id="desc324">1883 mqtt</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="24.3087"
+   cy="1141.1"
+   width="48.62"
+   height="26.9104" />
+				<rect
+   x="0"
+   y="1127.64"
+   width="48.6175"
+   height="26.9104"
+   class="st7"
+   id="rect326" />
+				<text
+   x="12.14"
+   y="1137.5"
+   class="st2"
+   v:langID="1031"
+   id="text330"><v:paragraph
+   v:horizAlign="1" /><v:tabList />1883<v:newlineChar /><tspan
+   x="12.34"
+   dy="1.2em"
+   class="st5"
+   id="tspan328">mqtt</tspan></text>			</g>
+			<g
+   id="shape116-161"
+   v:mID="116"
+   v:groupContext="shape"
+   transform="translate(0.579538,-65.7344)">
+				<title
+   id="title333">Tabelle.116</title>
+				<desc
+   id="desc335">D</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="11.1415"
+   cy="1147.71"
+   width="22.29"
+   height="13.676" />
+				<rect
+   x="0"
+   y="1140.88"
+   width="22.283001"
+   height="13.676"
+   class="st21"
+   id="rect337" />
+				<text
+   x="7.4499998"
+   y="1151.3101"
+   class="st2"
+   v:langID="1031"
+   id="text339"><v:paragraph
+   v:horizAlign="1" /><v:tabList />D</text>			</g>
+			<g
+   id="shape117-164"
+   v:mID="117"
+   v:groupContext="shape"
+   transform="translate(0.579538,-33.3931)">
+				<title
+   id="title342">Tabelle.117</title>
+				<desc
+   id="desc344">1:n</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="12.4071"
+   cy="1147.71"
+   width="24.82"
+   height="13.676" />
+				<rect
+   x="0"
+   y="1140.88"
+   width="24.814199"
+   height="13.676"
+   class="st21"
+   id="rect346" />
+				<text
+   x="4.6100001"
+   y="1151.3101"
+   class="st2"
+   v:langID="1031"
+   id="text348"><v:paragraph
+   v:horizAlign="1" /><v:tabList />1:n</text>			</g>
+		</g>
+		<g
+   id="group119-167"
+   transform="translate(1070.94,-942.803)"
+   v:mID="119"
+   v:groupContext="group">
+			<title
+   id="title352">service.119</title>
+			<g
+   id="shape120-168"
+   v:mID="120"
+   v:groupContext="shape"
+   transform="translate(3.47244,15.8563)">
+				<title
+   id="title354">Tabelle.120</title>
+				<desc
+   id="desc356">{RELEASE}-hh-udp-iot-bus</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="82.2047"
+   cy="1133.12"
+   width="164.41"
+   height="42.8563" />
+				<ellipse
+   cx="82.204697"
+   cy="1133.12"
+   rx="82.204697"
+   ry="21.428101"
+   class="st7"
+   id="ellipse358" />
+				<text
+   x="19.32"
+   y="1136.72"
+   class="st2"
+   v:langID="1031"
+   id="text360"><v:paragraph
+   v:horizAlign="1" /><v:tabList />{RELEASE}-hh-udp-iot-bus  </text>			</g>
+			<g
+   id="shape121-171"
+   v:mID="121"
+   v:groupContext="shape"
+   transform="translate(-8.90256,1.00984)">
+				<title
+   id="title363">pod-1.35</title>
+				<desc
+   id="desc365">NP</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="12.375"
+   cy="1147.8"
+   width="24.76"
+   height="13.5" />
+				<rect
+   x="0"
+   y="1141.05"
+   width="24.75"
+   height="13.5"
+   class="st8"
+   id="rect367" />
+				<text
+   x="5.4000001"
+   y="1151.4"
+   class="st2"
+   v:langID="1031"
+   id="text369"><v:paragraph
+   v:horizAlign="1" /><v:tabList />NP</text>			</g>
+			<g
+   id="shape122-174"
+   v:mID="122"
+   v:groupContext="shape"
+   transform="translate(59.8117,-20.6752)">
+				<title
+   id="title372">pod-1.34</title>
+				<desc
+   id="desc374">1883 mqtt</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="20.25"
+   cy="1138.8"
+   width="40.51"
+   height="31.5" />
+				<rect
+   x="0"
+   y="1123.05"
+   width="40.5"
+   height="31.5"
+   class="st8"
+   id="rect376" />
+				<text
+   x="8.0900002"
+   y="1135.2"
+   class="st2"
+   v:langID="1031"
+   id="text380"><v:paragraph
+   v:horizAlign="1" /><v:tabList />1883<v:newlineChar /><tspan
+   x="8.29"
+   dy="1.2em"
+   class="st5"
+   id="tspan378">mqtt</tspan></text>			</g>
+		</g>
+		<g
+   id="shape123-178"
+   v:mID="123"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(1147.03,-926.957)">
+			<title
+   id="title384">Dynamischer Verbinder.123</title>
+			<path
+   d="m 7.09,1154.55 v 42.27"
+   class="st16"
+   id="path386" />
+		</g>
+		<g
+   id="shape124-183"
+   v:mID="124"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(939.21,-844.606)">
+			<title
+   id="title389">Dynamischer Verbinder.124</title>
+			<path
+   d="m 9.45,1154.55 h 0.36 29.2 v -134.62 h 142.72"
+   class="st19"
+   id="path391" />
+		</g>
+		<g
+   id="shape127-190"
+   v:mID="127"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(854.256,-751.307)">
+			<title
+   id="title394">Dynamischer Verbinder.127</title>
+			<desc
+   id="desc396">read &amp; write</desc>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="327.566"
+   cy="1357.92"
+   width="50.7"
+   height="17.6036" />
+			<path
+   d="m 0,1154.55 v 203.37 h 810.47 v -48.03"
+   class="st22"
+   id="path398" />
+			<rect
+   v:rectContext="textBkgnd"
+   x="307.125"
+   y="1353.12"
+   width="40.882301"
+   height="9.5998497"
+   class="st15"
+   id="rect400" />
+			<text
+   x="307.13"
+   y="1360.3199"
+   class="st12"
+   v:langID="1031"
+   id="text402"><v:paragraph
+   v:horizAlign="1" /><v:tabList />read &amp; write</text>		</g>
+		<g
+   id="group128-195"
+   transform="translate(743.162,-729.354)"
+   v:mID="128"
+   v:groupContext="group">
+			<title
+   id="title405">pod-1.13</title>
+			<g
+   id="shape129-196"
+   v:mID="129"
+   v:groupContext="shape"
+   transform="translate(26.1397,-21.9528)">
+				<title
+   id="title407">Tabelle.129</title>
+				<desc
+   id="desc409">{RELEASE}-hh-udp-iot-mqtt</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197"
+   v:verticalAlign="0" />
+				<v:textRect
+   cx="84.9541"
+   cy="1105.16"
+   width="169.91"
+   height="98.7874" />
+				<rect
+   x="0"
+   y="1055.76"
+   width="169.908"
+   height="98.787399"
+   class="st20"
+   id="rect411" />
+				<text
+   x="18.76"
+   y="1070.5601"
+   class="st2"
+   v:langID="1031"
+   id="text413"><v:paragraph
+   v:horizAlign="1" /><v:tabList />{RELEASE}-hh-udp-iot-mqtt</text>			</g>
+			<g
+   id="shape130-199"
+   v:mID="130"
+   v:groupContext="shape"
+   transform="translate(58.8144,-38.4173)">
+				<title
+   id="title416">Tabelle.130</title>
+				<desc
+   id="desc418">FROST-Server mqtt</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="52.2794"
+   cy="1127.11"
+   width="104.56"
+   height="54.8819" />
+				<rect
+   x="0"
+   y="1099.67"
+   width="104.559"
+   height="54.881901"
+   class="st21"
+   id="rect420" />
+				<text
+   x="5.8299999"
+   y="1130.71"
+   class="st2"
+   v:langID="1031"
+   id="text422"><v:paragraph
+   v:horizAlign="1" /><v:tabList />FROST-Server mqtt</text>			</g>
+			<g
+   id="shape131-202"
+   v:mID="131"
+   v:groupContext="shape"
+   transform="translate(39.2096,-120.769)">
+				<title
+   id="title425">Tabelle.131</title>
+				<desc
+   id="desc427">1883 mqtt</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="29.4072"
+   cy="1141.32"
+   width="58.82"
+   height="26.4544" />
+				<rect
+   x="0"
+   y="1128.1"
+   width="58.8144"
+   height="26.454399"
+   class="st7"
+   id="rect429" />
+				<text
+   x="17.24"
+   y="1137.72"
+   class="st2"
+   v:langID="1031"
+   id="text433"><v:paragraph
+   v:horizAlign="1" /><v:tabList />1883<v:newlineChar /><tspan
+   x="17.440001"
+   dy="1.2em"
+   class="st5"
+   id="tspan431">mqtt</tspan></text>			</g>
+			<g
+   id="shape132-206"
+   v:mID="132"
+   v:groupContext="shape"
+   transform="translate(0,-87.811)">
+				<title
+   id="title436">Tabelle.132</title>
+				<desc
+   id="desc438">D</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="17.9711"
+   cy="1146.32"
+   width="35.95"
+   height="16.4646" />
+				<rect
+   x="0"
+   y="1138.09"
+   width="35.942101"
+   height="16.4646"
+   class="st21"
+   id="rect440" />
+				<text
+   x="14.28"
+   y="1149.92"
+   class="st2"
+   v:langID="1031"
+   id="text442"><v:paragraph
+   v:horizAlign="1" /><v:tabList />D</text>			</g>
+			<g
+   id="shape133-209"
+   v:mID="133"
+   v:groupContext="shape"
+   transform="translate(120.896,-120.769)">
+				<title
+   id="title445">Tabelle.133</title>
+				<desc
+   id="desc447">9876 websocket</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="31.6779"
+   cy="1141.32"
+   width="63.36"
+   height="26.4544" />
+				<rect
+   x="0"
+   y="1128.1"
+   width="63.355801"
+   height="26.454399"
+   class="st7"
+   id="rect449" />
+				<text
+   x="19.51"
+   y="1137.72"
+   class="st2"
+   v:langID="1031"
+   id="text453"><v:paragraph
+   v:horizAlign="1" /><v:tabList />9876<v:newlineChar /><tspan
+   x="5.48"
+   dy="1.2em"
+   class="st5"
+   id="tspan451">websocket</tspan></text>			</g>
+			<g
+   id="shape134-213"
+   v:mID="134"
+   v:groupContext="shape"
+   transform="translate(0,-38.4173)">
+				<title
+   id="title456">Tabelle.134</title>
+				<desc
+   id="desc458">1:n</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="17.9711"
+   cy="1146.32"
+   width="35.95"
+   height="16.4646" />
+				<rect
+   x="0"
+   y="1138.09"
+   width="35.942101"
+   height="16.4646"
+   class="st21"
+   id="rect460" />
+				<text
+   x="10.17"
+   y="1149.92"
+   class="st2"
+   v:langID="1031"
+   id="text462"><v:paragraph
+   v:horizAlign="1" /><v:tabList />1:n</text>			</g>
+			<g
+   id="shape135-216"
+   v:mID="135"
+   v:groupContext="shape"
+   transform="translate(182.978,-50.6753)">
+				<title
+   id="title465">Tabelle.135</title>
+				<desc
+   id="desc467">{RELEASE}-hh-udp-iot-http-external secret</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="49.012"
+   cy="1125.01"
+   width="98.03"
+   height="59.0885" />
+				<rect
+   x="0"
+   y="1095.46"
+   width="98.023903"
+   height="59.088501"
+   class="st23"
+   id="rect469" />
+				<text
+   x="14.46"
+   y="1107.01"
+   class="st2"
+   v:langID="1031"
+   id="text477"><v:paragraph
+   v:horizAlign="1" /><v:tabList />{RELEASE}-hh-<tspan
+   x="17.17"
+   dy="1.2em"
+   class="st5"
+   id="tspan471">udp</tspan>-iot-http-<tspan
+   x="28.940001"
+   dy="1.2em"
+   class="st5"
+   id="tspan473">external<v:newlineChar /></tspan><tspan
+   x="34.060001"
+   dy="1.2em"
+   class="st5"
+   id="tspan475">secret</tspan></text>			</g>
+		</g>
+		<g
+   id="shape141-222"
+   v:mID="141"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(1171.25,-979.228)">
+			<title
+   id="title481">Dynamischer Verbinder.141</title>
+			<path
+   d="m 9.45,1154.55 h 0.36 84.04 v 139.61 h 18.1"
+   class="st19"
+   id="path483" />
+		</g>
+		<g
+   id="group142-229"
+   transform="translate(1266.87,-727.115)"
+   v:mID="142"
+   v:groupContext="group">
+			<title
+   id="title486">pod-1.142</title>
+			<g
+   id="shape143-230"
+   v:mID="143"
+   v:groupContext="shape"
+   transform="translate(26.1397,-21.9528)">
+				<title
+   id="title488">Tabelle.143</title>
+				<desc
+   id="desc490">{RELEASE}-hh-udp-iot-http-external</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197"
+   v:verticalAlign="0" />
+				<v:textRect
+   cx="91.812"
+   cy="1105.16"
+   width="183.63"
+   height="98.7874" />
+				<rect
+   x="0"
+   y="1055.76"
+   width="183.62399"
+   height="98.787399"
+   class="st20"
+   id="rect492" />
+				<text
+   x="5.3400002"
+   y="1070.5601"
+   class="st2"
+   v:langID="1031"
+   id="text494"><v:paragraph
+   v:horizAlign="1" /><v:tabList />{RELEASE}-hh-udp-iot-http-external</text>			</g>
+			<g
+   id="shape144-233"
+   v:mID="144"
+   v:groupContext="shape"
+   transform="translate(58.8144,-38.4173)">
+				<title
+   id="title497">Tabelle.144</title>
+				<desc
+   id="desc499">FROST-Server http</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="52.2794"
+   cy="1127.11"
+   width="104.56"
+   height="54.8819" />
+				<rect
+   x="0"
+   y="1099.67"
+   width="104.559"
+   height="54.881901"
+   class="st21"
+   id="rect501" />
+				<text
+   x="7.4699998"
+   y="1130.71"
+   class="st2"
+   v:langID="1031"
+   id="text503"><v:paragraph
+   v:horizAlign="1" /><v:tabList />FROST-Server http</text>			</g>
+			<g
+   id="shape145-236"
+   v:mID="145"
+   v:groupContext="shape"
+   transform="translate(85.0394,-119.684)">
+				<title
+   id="title506">Tabelle.145</title>
+				<desc
+   id="desc508">8080 http</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="29.4072"
+   cy="1141.32"
+   width="58.82"
+   height="26.4544" />
+				<rect
+   x="0"
+   y="1128.1"
+   width="58.8144"
+   height="26.454399"
+   class="st7"
+   id="rect510" />
+				<text
+   x="17.24"
+   y="1137.72"
+   class="st2"
+   v:langID="1031"
+   id="text514"><v:paragraph
+   v:horizAlign="1" /><v:tabList />8080<v:newlineChar /><tspan
+   x="19.08"
+   dy="1.2em"
+   class="st5"
+   id="tspan512">http</tspan></text>			</g>
+			<g
+   id="shape146-240"
+   v:mID="146"
+   v:groupContext="shape"
+   transform="translate(0,-87.811)">
+				<title
+   id="title517">Tabelle.146</title>
+				<desc
+   id="desc519">D</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="17.9711"
+   cy="1146.32"
+   width="35.95"
+   height="16.4646" />
+				<rect
+   x="0"
+   y="1138.09"
+   width="35.942101"
+   height="16.4646"
+   class="st21"
+   id="rect521" />
+				<text
+   x="14.28"
+   y="1149.92"
+   class="st2"
+   v:langID="1031"
+   id="text523"><v:paragraph
+   v:horizAlign="1" /><v:tabList />D</text>			</g>
+			<g
+   id="shape148-243"
+   v:mID="148"
+   v:groupContext="shape"
+   transform="translate(0,-38.4173)">
+				<title
+   id="title526">Tabelle.148</title>
+				<desc
+   id="desc528">1:n</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="17.9711"
+   cy="1146.32"
+   width="35.95"
+   height="16.4646" />
+				<rect
+   x="0"
+   y="1138.09"
+   width="35.942101"
+   height="16.4646"
+   class="st21"
+   id="rect530" />
+				<text
+   x="10.17"
+   y="1149.92"
+   class="st2"
+   v:langID="1031"
+   id="text532"><v:paragraph
+   v:horizAlign="1" /><v:tabList />1:n</text>			</g>
+			<g
+   id="shape149-246"
+   v:mID="149"
+   v:groupContext="shape"
+   transform="translate(183.429,-38.422)">
+				<title
+   id="title535">Tabelle.149</title>
+				<desc
+   id="desc537">{RELEASE}-hh-udp-iot-http-external secret</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="49.012"
+   cy="1125.01"
+   width="98.03"
+   height="59.0885" />
+				<rect
+   x="0"
+   y="1095.46"
+   width="98.023903"
+   height="59.088501"
+   class="st23"
+   id="rect539" />
+				<text
+   x="14.46"
+   y="1107.01"
+   class="st2"
+   v:langID="1031"
+   id="text547"><v:paragraph
+   v:horizAlign="1" /><v:tabList />{RELEASE}-hh-<tspan
+   x="17.17"
+   dy="1.2em"
+   class="st5"
+   id="tspan541">udp</tspan>-iot-http-<tspan
+   x="28.940001"
+   dy="1.2em"
+   class="st5"
+   id="tspan543">external<v:newlineChar /></tspan><tspan
+   x="34.060001"
+   dy="1.2em"
+   class="st5"
+   id="tspan545">secret</tspan></text>			</g>
+		</g>
+		<g
+   id="shape151-252"
+   v:mID="151"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(1585.42,-839.405)">
+			<title
+   id="title551">Dynamischer Verbinder.151</title>
+			<path
+   d="M -9.45,1154.55 H -9.81 -28.35 V 993.07 h -174.52 a 2.3622,2.3622 -180 0 0 -4.72,0 h -194.8 v 21.66 h -1.97"
+   class="st19"
+   id="path553" />
+		</g>
+		<g
+   id="group152-259"
+   transform="translate(1559.28,-726.897)"
+   v:mID="152"
+   v:groupContext="group">
+			<title
+   id="title556">pod-1.152</title>
+			<g
+   id="shape153-260"
+   v:mID="153"
+   v:groupContext="shape"
+   transform="translate(26.1397,-21.9528)">
+				<title
+   id="title558">Tabelle.153</title>
+				<desc
+   id="desc560">{RELEASE}-hh-udp-iot-http-internal</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197"
+   v:verticalAlign="0" />
+				<v:textRect
+   cx="91.812"
+   cy="1105.16"
+   width="183.63"
+   height="98.7874" />
+				<path
+   d="m 0,1154.55 h 183.62 v -98.79 H 0 Z"
+   class="st24"
+   id="path562" />
+				<text
+   x="6.4000001"
+   y="1070.5601"
+   class="st2"
+   v:langID="1031"
+   id="text564"><v:paragraph
+   v:horizAlign="1" /><v:tabList />{RELEASE}-hh-udp-iot-http-internal</text>			</g>
+			<g
+   id="shape154-263"
+   v:mID="154"
+   v:groupContext="shape"
+   transform="translate(58.8144,-38.4173)">
+				<title
+   id="title567">Tabelle.154</title>
+				<desc
+   id="desc569">FROST-Server http</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="52.2794"
+   cy="1127.11"
+   width="104.56"
+   height="54.8819" />
+				<path
+   d="m 0,1154.55 h 104.56 v -54.88 H 0 Z"
+   class="st25"
+   id="path571" />
+				<text
+   x="7.4699998"
+   y="1130.71"
+   class="st2"
+   v:langID="1031"
+   id="text573"><v:paragraph
+   v:horizAlign="1" /><v:tabList />FROST-Server http</text>			</g>
+			<g
+   id="shape155-266"
+   v:mID="155"
+   v:groupContext="shape"
+   transform="translate(85.0394,-119.684)">
+				<title
+   id="title576">Tabelle.155</title>
+				<desc
+   id="desc578">8080 http</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="29.4072"
+   cy="1141.32"
+   width="58.82"
+   height="26.4544" />
+				<path
+   d="M 0,1154.55 H 58.81 V 1128.1 H 0 Z"
+   class="st17"
+   id="path580" />
+				<text
+   x="17.24"
+   y="1137.72"
+   class="st2"
+   v:langID="1031"
+   id="text584"><v:paragraph
+   v:horizAlign="1" /><v:tabList />8080<v:newlineChar /><tspan
+   x="19.08"
+   dy="1.2em"
+   class="st5"
+   id="tspan582">http</tspan></text>			</g>
+			<g
+   id="shape156-270"
+   v:mID="156"
+   v:groupContext="shape"
+   transform="translate(0,-87.811)">
+				<title
+   id="title587">Tabelle.156</title>
+				<desc
+   id="desc589">D</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="17.9711"
+   cy="1146.32"
+   width="35.95"
+   height="16.4646" />
+				<path
+   d="m 0,1154.55 h 35.94 v -16.46 H 0 Z"
+   class="st25"
+   id="path591" />
+				<text
+   x="14.28"
+   y="1149.92"
+   class="st2"
+   v:langID="1031"
+   id="text593"><v:paragraph
+   v:horizAlign="1" /><v:tabList />D</text>			</g>
+			<g
+   id="shape157-273"
+   v:mID="157"
+   v:groupContext="shape"
+   transform="translate(0,-38.4173)">
+				<title
+   id="title596">Tabelle.157</title>
+				<desc
+   id="desc598">1:n</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="17.9711"
+   cy="1146.32"
+   width="35.95"
+   height="16.4646" />
+				<path
+   d="m 0,1154.55 h 35.94 v -16.46 H 0 Z"
+   class="st25"
+   id="path600" />
+				<text
+   x="10.17"
+   y="1149.92"
+   class="st2"
+   v:langID="1031"
+   id="text602"><v:paragraph
+   v:horizAlign="1" /><v:tabList />1:n</text>			</g>
+			<g
+   id="shape158-276"
+   v:mID="158"
+   v:groupContext="shape"
+   transform="translate(183.429,-38.422)">
+				<title
+   id="title605">Tabelle.158</title>
+				<desc
+   id="desc607">{RELEASE}-hh-udp-iot-http-internal secret</desc>
+				<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+				<v:textRect
+   cx="49.012"
+   cy="1125.01"
+   width="98.03"
+   height="59.0885" />
+				<path
+   d="m 0,1154.55 h 98.02 v -59.09 H 0 Z"
+   class="st26"
+   id="path609" />
+				<text
+   x="14.46"
+   y="1107.01"
+   class="st2"
+   v:langID="1031"
+   id="text617"><v:paragraph
+   v:horizAlign="1" /><v:tabList />{RELEASE}-hh-<tspan
+   x="17.17"
+   dy="1.2em"
+   class="st5"
+   id="tspan611">udp</tspan>-iot-http-<tspan
+   x="29.99"
+   dy="1.2em"
+   class="st5"
+   id="tspan613">internal<v:newlineChar /></tspan><tspan
+   x="34.060001"
+   dy="1.2em"
+   class="st5"
+   id="tspan615">secret</tspan></text>			</g>
+		</g>
+	</g>
+</svg>
