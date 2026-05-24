@@ -56,7 +56,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"YZvL5UXHBBeFrzZZ9s6ww_S9rba1cpSyFFF4dTkBz1aMfFqviMai_huh05JuyK7xyZSFPfATxpXCAThfAcMAbA","x-gitlab-feature-category":"groups_and_projects"};
+  const headers = {"X-CSRF-Token":"W5nG70oczklbQ1gn9uAuxfes7cLBnXqsVpbWWB-k1h2gzksRXKVNriUMl1o4RAT84A__j6TZJIUymKg-ja-e2A","x-gitlab-feature-category":"groups_and_projects"};
   const url = `https://gitlab.opencode.de/api/graphql`
 
   const opts = {
@@ -101,7 +101,7 @@ if (gl.startup_graphql_calls && window.fetch) {
 //<![CDATA[
 window.snowplowOptions = {"namespace":"gl","hostname":"gitlab.opencode.de:443","postPath":"/-/collect_events","forceSecureTracker":true,"appId":"gitlab_sm"};
 gl = window.gl || {};
-gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01KS9KZBJSSKZ5VYSGY264S809","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":6932,"ultimate_parent_namespace_id":101,"project_id":2559,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-05-23T05:12:23.730Z","organization_id":1}};
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01KSC89NA1WAV0W56CENWX2MGG","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":6932,"ultimate_parent_namespace_id":101,"project_id":2559,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-05-24T05:46:01.268Z","organization_id":1}};
 gl.snowplowPseudonymizedPageUrl = "https://gitlab.opencode.de/namespace6932/project2559";
 gl.maskedDefaultReferrerUrl = null;
 gl.ga4MeasurementId = 'G-ENFH3X7M5Y';
@@ -148,7 +148,7 @@ gl.onlySendDuoEvents = false;
 <meta content="https://gitlab.opencode.de/uploads/-/system/project/avatar/2559/igbvclogo.PNG" property="twitter:image">
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="oA0Yw8M5lXoTiIPJipSaun488oYxW8h9QRJrbPK0av9N6omJDjgzk42GZgISkoSIQxXaDXQ6mlqXQitGynalxQ" />
+<meta name="csrf-token" content="jJ1MRx95pO6kGcwSmLNJU-6thJqhfgXd4_8OULSUlNB3ysG5CcAnCdpWA29WF2Nq-Q6W18Q6W_SH8XA2Jp_cFQ" />
 <meta name="csp-nonce" />
 <meta name="action-cable-url" content="/-/cable" />
 <link href="/-/manifest.json" rel="manifest">
@@ -309,7 +309,7 @@ Richtlinien
 
 </h1>
 </div>
-<div data-can-read-project="true" data-can-request-access="false" data-can-withdraw-access-request="false" data-dashboard-path="/dashboard/projects" data-is-project-empty="false" data-is-project-marked-for-deletion="false" data-project-avatar="/uploads/-/system/project/avatar/2559/igbvclogo.PNG" data-project-full-path="ig-bvc/policy-entwicklung/policy-entwicklung" data-project-id="2559" data-project-name="Richtlinien" data-project-visibility-level="public" data-request-access-path="/ig-bvc/policy-entwicklung/policy-entwicklung/-/project_members/request_access" data-sign-in-path="/users/sign_in?redirect_to_referer=yes" data-star-count="3" data-starred="false" data-starrers-path="/ig-bvc/policy-entwicklung/policy-entwicklung/-/starrers" data-withdraw-access-request-path="/ig-bvc/policy-entwicklung/policy-entwicklung/-/project_members/leave" id="js-home-panel"></div>
+<div data-can-read-project="true" data-can-request-access="false" data-can-withdraw-access-request="false" data-dashboard-path="/dashboard/projects" data-is-project-empty="false" data-is-project-marked-for-deletion="false" data-project-avatar="/uploads/-/system/project/avatar/2559/igbvclogo.PNG" data-project-full-path="ig-bvc/policy-entwicklung/policy-entwicklung" data-project-id="2559" data-project-name="Richtlinien" data-project-visibility-level="public" data-request-access-path="/ig-bvc/policy-entwicklung/policy-entwicklung/-/project_members/request_access" data-sign-in-path="/users/sign_in?redirect_to_referer=yes" data-star-count="4" data-starred="false" data-starrers-path="/ig-bvc/policy-entwicklung/policy-entwicklung/-/starrers" data-withdraw-access-request-path="/ig-bvc/policy-entwicklung/policy-entwicklung/-/project_members/leave" id="js-home-panel"></div>
 </div>
 
 </header>
