@@ -56,7 +56,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"T0Pv3t5_0jX0S2CYMxGq7sLYYMdTCQJ0EjXAPi9sgjy4kRPAc3q0M7o_guN7qlKbcUJqjtQ3EEPtxbIwEGeifQ","x-gitlab-feature-category":"source_code_management"};
+  const headers = {"X-CSRF-Token":"UGyq_AxeRDJuzN-0eK_m7_AM4eTby6vt6fbnBqQH0eKhnn03CgONfL_cUlXIni78Pv0HyfETXKrxYV7ROasiXQ","x-gitlab-feature-category":"source_code_management"};
   const url = `https://gitlab.opencode.de/api/graphql`
 
   const opts = {
@@ -101,7 +101,7 @@ if (gl.startup_graphql_calls && window.fetch) {
 //<![CDATA[
 window.snowplowOptions = {"namespace":"gl","hostname":"gitlab.opencode.de:443","postPath":"/-/collect_events","forceSecureTracker":true,"appId":"gitlab_sm"};
 gl = window.gl || {};
-gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01KTXHYX854PCZ2QKCVMKWBN64","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":20465,"ultimate_parent_namespace_id":17045,"project_id":7282,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-06-12T09:17:42.644Z","organization_id":1}};
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01KV039RXQWVMH9H8F6FBS1FXH","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":20465,"ultimate_parent_namespace_id":17045,"project_id":7282,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-06-13T08:59:12.653Z","organization_id":1}};
 gl.snowplowPseudonymizedPageUrl = "https://gitlab.opencode.de/namespace20465/project7282/-/blob/:repository_path?ref_type=masked_ref_type";
 gl.maskedDefaultReferrerUrl = null;
 gl.ga4MeasurementId = 'G-ENFH3X7M5Y';
@@ -146,7 +146,7 @@ gl.onlySendDuoEvents = false;
 <meta content="https://gitlab.opencode.de/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" property="twitter:image">
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="JnIzAsQIjI-ENn4qYj5ghIK2d2nhdDZ4H7AuxRAVftfRoM8caQ3qicpCnFEqhZjxMSx9IGZKJE_gQFzLLx5elg" />
+<meta name="csrf-token" content="eGR4xb8av8_8QcOkGgtFwUv6ATUvQblg5fj9dauDUEyJlq8OuUd2gS1RTkWqOo3ShQvnGAWZTif9b0SiNi-j8w" />
 <meta name="csp-nonce" />
 <meta name="action-cable-url" content="/-/cable" />
 <link href="/-/manifest.json" rel="manifest">
@@ -216,6 +216,19 @@ document.documentElement.style.setProperty('--scrollbar-width', `${scrollbarWidt
 <div class="js-static-panel static-panel content-wrapper gl-relative paneled-view gl-flex-1 gl-overflow-y-auto gl-bg-default" id="static-panel-portal">
 <div class="panel-header">
 <div class="broadcast-wrapper">
+
+<div class="gl-broadcast-message banner js-broadcast-notification-69 indigo" data-broadcast-banner data-testid="banner-broadcast-message" role="alert">
+<div class="gl-broadcast-message-content">
+<div class="gl-broadcast-message-icon">
+<svg class="s16" data-testid="bullhorn-icon"><use href="/assets/icons-41229992eca580608aadaaa9b83b717650b2863442574d0ebb87f859c42a3b6c.svg#bullhorn"></use></svg>
+</div>
+<div class="gl-broadcast-message-text">
+<h2 class="gl-sr-only">Admin message</h2>
+<p>Geplante IP-Änderung - am 23.06. die bisherigen öffentlichen IP-Adressen von openCode durch neue IP-Adressen ersetzt - <a href="https://opencode.de/de/aktuelles" rel="nofollow noreferrer noopener" target="_blank">https://opencode.de/de/aktuelles</a></p>
+</div>
+</div>
+</div>
+
 
 
 
