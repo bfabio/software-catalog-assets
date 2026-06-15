@@ -56,7 +56,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"otDBzyiiLRXbXGJrmHMpWHXCLDM65H5HrDdbOy-yL4EBjNBcAH4ry8ggICNrHSSQF4O_jDxJ1aFqcMu7fWQEfg","x-gitlab-feature-category":"groups_and_projects"};
+  const headers = {"X-CSRF-Token":"ocB7ZKXTitJCC0OoF4VMWaJsLQUOgkE0xZtcX_7dd9FElLIwdz7jNxoe0HfbwrJ1cXGIJhL2JtCCu7cVpY63fg","x-gitlab-feature-category":"groups_and_projects"};
   const url = `https://gitlab.opencode.de/api/graphql`
 
   const opts = {
@@ -101,7 +101,7 @@ if (gl.startup_graphql_calls && window.fetch) {
 //<![CDATA[
 window.snowplowOptions = {"namespace":"gl","hostname":"gitlab.opencode.de:443","postPath":"/-/collect_events","forceSecureTracker":true,"appId":"gitlab_sm"};
 gl = window.gl || {};
-gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01KV2DFS3Z5ESZY30XPVRA6GC0","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":1128,"ultimate_parent_namespace_id":101,"project_id":393,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-06-14T06:35:44.045Z","organization_id":1}};
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01KV52DAP5GY3VNA5DZQE0SWK2","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":1128,"ultimate_parent_namespace_id":101,"project_id":393,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-06-15T07:19:52.573Z","organization_id":1}};
 gl.snowplowPseudonymizedPageUrl = "https://gitlab.opencode.de/namespace1128/project393";
 gl.maskedDefaultReferrerUrl = null;
 gl.ga4MeasurementId = 'G-ENFH3X7M5Y';
@@ -148,7 +148,7 @@ gl.onlySendDuoEvents = false;
 <meta content="https://gitlab.opencode.de/uploads/-/system/project/avatar/393/igbvclogo.PNG" property="twitter:image">
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="Y_fkXk_-LdaGQTWme3eWrzkWT-s-N6vorXnWaHpxNFzAq_XNZyIrCJU9d-6IGZtnW1fcVDiaAA5rPkboKKcfow" />
+<meta name="csrf-token" content="WEm4i7FFCIv7BfgmytbzRVZDxTiNuJ2fgm4S0qLBIyu9HXHfY6hhbqMQa_kGkQ1phV5gG5HM-nvFTvmY-ZLjhA" />
 <meta name="csp-nonce" />
 <meta name="action-cable-url" content="/-/cable" />
 <link href="/-/manifest.json" rel="manifest">
@@ -334,7 +334,7 @@ Richtlinien
 
 </h1>
 </div>
-<div data-can-read-project="true" data-can-request-access="false" data-can-withdraw-access-request="false" data-dashboard-path="/dashboard/projects" data-is-project-empty="false" data-is-project-marked-for-deletion="false" data-project-avatar="/uploads/-/system/project/avatar/393/igbvclogo.PNG" data-project-full-path="ig-bvc/ig-bvc-poc-2/ig-bvc-poc-ii-ap-4.1-ff-policy-entwicklung/richtlinien" data-project-id="393" data-project-name="Richtlinien" data-project-visibility-level="public" data-request-access-path="/ig-bvc/ig-bvc-poc-2/ig-bvc-poc-ii-ap-4.1-ff-policy-entwicklung/richtlinien/-/project_members/request_access" data-sign-in-path="/users/sign_in?redirect_to_referer=yes" data-star-count="4" data-starred="false" data-starrers-path="/ig-bvc/ig-bvc-poc-2/ig-bvc-poc-ii-ap-4.1-ff-policy-entwicklung/richtlinien/-/starrers" data-withdraw-access-request-path="/ig-bvc/ig-bvc-poc-2/ig-bvc-poc-ii-ap-4.1-ff-policy-entwicklung/richtlinien/-/project_members/leave" id="js-home-panel"></div>
+<div data-can-read-project="true" data-can-request-access="false" data-can-withdraw-access-request="false" data-dashboard-path="/dashboard/projects" data-is-project-empty="false" data-is-project-marked-for-deletion="false" data-project-avatar="/uploads/-/system/project/avatar/393/igbvclogo.PNG" data-project-full-path="ig-bvc/ig-bvc-poc-2/ig-bvc-poc-ii-ap-4.1-ff-policy-entwicklung/richtlinien" data-project-id="393" data-project-name="Richtlinien" data-project-visibility-level="public" data-request-access-path="/ig-bvc/ig-bvc-poc-2/ig-bvc-poc-ii-ap-4.1-ff-policy-entwicklung/richtlinien/-/project_members/request_access" data-sign-in-path="/users/sign_in?redirect_to_referer=yes" data-star-count="3" data-starred="false" data-starrers-path="/ig-bvc/ig-bvc-poc-2/ig-bvc-poc-ii-ap-4.1-ff-policy-entwicklung/richtlinien/-/starrers" data-withdraw-access-request-path="/ig-bvc/ig-bvc-poc-2/ig-bvc-poc-ii-ap-4.1-ff-policy-entwicklung/richtlinien/-/project_members/leave" id="js-home-panel"></div>
 </div>
 
 </header>
