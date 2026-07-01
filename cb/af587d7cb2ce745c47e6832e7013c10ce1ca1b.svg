@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="N6DgSTlyv69XT60yO-2ijTSrYFkEBTY5TjYrzjHTHUX7gDYtuE2_rNIlwW9FuB61stJs_otEZl0HNnX_6Vs1FQ" />
+<meta name="csrf-token" content="l-D-fJWKkdK-iDBjH50x8pwesnT00_kIrgV9jgVMirrQ8Tyi_v1qTuCuEGn94qtqGG7YfUDS4ajAKOoLTrzw2A" />
 </head>
 <body>
 <form action="/users/auth/openid_connect" method="post" style="display:none">
