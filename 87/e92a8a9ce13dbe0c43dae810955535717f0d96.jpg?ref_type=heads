@@ -56,7 +56,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"TDO9MIVeU74xBCaR5QijLzRgiz2f8lo6fa7ygXb3bACY7-0OOYc72MwUdp0gqZi68PMv2FiR93ozhAg_22Llow","x-gitlab-feature-category":"source_code_management"};
+  const headers = {"X-CSRF-Token":"e7Gh3827kJokBMzBMKKwPDfdL30RkQ1E40BVwEnVMmqYF1HdEZztatNe7s7i3PpltEbF1DjWa_B9Hvs9lwei5A","x-gitlab-feature-category":"source_code_management"};
   const url = `https://gitlab.opencode.de/api/graphql`
 
   const opts = {
@@ -101,7 +101,7 @@ if (gl.startup_graphql_calls && window.fetch) {
 //<![CDATA[
 window.snowplowOptions = {"namespace":"gl","hostname":"gitlab.opencode.de:443","postPath":"/-/collect_events","forceSecureTracker":true,"appId":"gitlab_sm"};
 gl = window.gl || {};
-gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01KWP3WJ4F63H2GXYEX8A6CG0C","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":20465,"ultimate_parent_namespace_id":17045,"project_id":7282,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-07-04T08:28:27.448Z","organization_id":1}};
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01KWRR4X9HH6C285WS3AWH0R8S","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":20465,"ultimate_parent_namespace_id":17045,"project_id":7282,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-07-05T09:01:02.442Z","organization_id":1}};
 gl.snowplowPseudonymizedPageUrl = "https://gitlab.opencode.de/namespace20465/project7282/-/blob/:repository_path?ref_type=masked_ref_type";
 gl.maskedDefaultReferrerUrl = null;
 gl.ga4MeasurementId = 'G-ENFH3X7M5Y';
@@ -146,7 +146,7 @@ gl.onlySendDuoEvents = false;
 <meta content="https://gitlab.opencode.de/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" property="twitter:image">
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="pem1iUCN-QqEdFICGwfcM3ro6LTJcuQUdFJ8v0fP6EhxNeW3_FSRbHlkAg7epuemvntMUQ4RSVQ6eIYB6lph6w" />
+<meta name="csrf-token" content="tHRguk_QceeBwijKFxp1d1c7YZq5Myaftrzzp1yvED9X0pC4k_cMF3aYCsXFZD8u1KCLM5B0QCso4l1agn2AsQ" />
 <meta name="csp-nonce" />
 <meta name="action-cable-url" content="/-/cable" />
 <link href="/-/manifest.json" rel="manifest">
