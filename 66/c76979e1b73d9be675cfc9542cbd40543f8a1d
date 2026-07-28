@@ -36,7 +36,7 @@ window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e)
 <script>
 //<![CDATA[
 var gl = window.gl || {};
-gl.startup_calls = {"/ig-bvc/ig-bvc-poc-2/ig-bvc-poc-ii-ap-4.1-ff-policy-entwicklung/richtlinien/-/refs/main/logs_tree/?format=json\u0026offset=0\u0026ref_type=HEADS":{},"/ig-bvc/ig-bvc-poc-2/ig-bvc-poc-ii-ap-4.1-ff-policy-entwicklung/richtlinien/-/blob/main/README.md?format=json\u0026viewer=rich":{}};
+gl.startup_calls = {"/ig-bvc/ig-bvc-poc-2/ig-bvc-poc-ii-ap-4.1-ff-policy-entwicklung/richtlinien/-/refs/main/logs_tree/?format=json\u0026offset=0\u0026ref_type=HEADS":{},"/ig-bvc/ig-bvc-poc-2/ig-bvc-poc-ii-ap-4.1-ff-policy-entwicklung/richtlinien/-/blob/main/README.md?format=json\u0026ref_type=heads\u0026viewer=rich":{}};
 gl.startup_graphql_calls = null;
 
 if (gl.startup_calls && window.fetch) {
@@ -56,7 +56,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"xzls715GuPKOxTp2_YVYDU8pfiGqeF4bcYXAgojMINoNxPVHpy0nxxJr8jKoXb4bEFKLe8ZJh4Qd5MCVYiQbGQ","x-gitlab-feature-category":"groups_and_projects"};
+  const headers = {"X-CSRF-Token":"mSZ8VKk3PmM9dhHCzh_2ewsXPipRxqSd2SrcPtXKxpBtacCyTdTfwilFEDLpsy_6OaHKHTC4hAn2a7T8wr9i5A","x-gitlab-feature-category":"groups_and_projects"};
   const url = `https://gitlab.opencode.de/api/graphql`
 
   const opts = {
@@ -94,14 +94,14 @@ if (gl.startup_graphql_calls && window.fetch) {
 <link rel="stylesheet" href="/assets/highlight/themes/white-91053d9b33e6ca83f1ccc9f675156756bb42617c9bc1cda4b3915abc0547ceda.css" media="(prefers-color-scheme: light)" />
 <link rel="stylesheet" href="/assets/highlight/themes/dark-fa67ecd7679c9e378a28d89e0ab7f2423d7dbba3770b71f213b0453730ea247e.css" media="(prefers-color-scheme: dark)" />
 
-<script src="/assets/webpack/runtime.8b006c4f.bundle.js" defer="defer"></script>
-<script src="/assets/webpack/main.7eb7d07e.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/runtime.260f5d8f.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.0bc0bc8b.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/tracker.1eb446cb.chunk.js" defer="defer"></script>
 <script>
 //<![CDATA[
 window.snowplowOptions = {"namespace":"gl","hostname":"gitlab.opencode.de:443","postPath":"/-/collect_events","forceSecureTracker":true,"appId":"gitlab_sm"};
 gl = window.gl || {};
-gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01KYH0VX35G3DC3ARM9C9YNE8Q","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":1128,"ultimate_parent_namespace_id":101,"project_id":393,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-07-27T05:30:52.816Z","organization_id":1}};
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01KYKGWH7AJE7TVVZD8VPGJ8MJ","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":1128,"ultimate_parent_namespace_id":101,"project_id":393,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-07-28T04:49:18.394Z","organization_id":1}};
 gl.snowplowPseudonymizedPageUrl = "https://gitlab.opencode.de/namespace1128/project393";
 gl.maskedDefaultReferrerUrl = null;
 gl.ga4MeasurementId = 'G-ENFH3X7M5Y';
@@ -148,7 +148,7 @@ gl.onlySendDuoEvents = false;
 <meta content="https://gitlab.opencode.de/uploads/-/system/project/avatar/393/igbvclogo.PNG" property="twitter:image">
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="ZzKNmFgK7MxUfGUF9pOZS6QRAFKh_dzGO1DnRHn9BPutzxQwoWFz-cjSrUGjS39d-2r1CM3MBVlXMedTkxU_OA" />
+<meta name="csrf-token" content="yYUT0ilqEfKqboTO5o04NJba1oDjiB1xAFsln4FAcaM9yq80zYnwU75dhT7BIeG1pGwit4L2PeUvGk1dljXV1w" />
 <meta name="csp-nonce" />
 <meta name="action-cable-url" content="/-/cable" />
 <link href="/-/manifest.json" rel="manifest">
