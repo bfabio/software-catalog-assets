@@ -61,7 +61,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"yLSxl_i_qW2kUNyqQQad9IDaOW31HF-qtfzKvZ3Cqf2WBRFemZJ8Q924mTcdIjgVgJ_oC1MR1C0jRCyDUZI3JQ","x-gitlab-feature-category":"groups_and_projects"};
+  const headers = {"X-CSRF-Token":"YqUxBWY8bPrTc6S9Upav87MBhPKgjkAP-rgqXabDrgyCcvRbaDv3U3isNd9OAT_SCvneKJX_du4gTUWAniY63Q","x-gitlab-feature-category":"groups_and_projects"};
   const url = `https://gitlab.opencode.de/api/graphql`
 
   const opts = {
@@ -99,14 +99,14 @@ if (gl.startup_graphql_calls && window.fetch) {
 <link rel="stylesheet" href="/assets/highlight/themes/white-c3211f67c1e8d8cfb47de179b2da35275ab7865cdf299ab44b4a8cc52d5cafd3.css" media="(prefers-color-scheme: light)" />
 <link rel="stylesheet" href="/assets/highlight/themes/dark-8cae80594d7953b52bc449bf1b4f2de402c87cc39fffc7aa0187b5f881c0cfd7.css" media="(prefers-color-scheme: dark)" />
 
-<script src="/assets/webpack/runtime.7fba2bbc.bundle.js" defer="defer"></script>
-<script src="/assets/webpack/main.47476afc.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/runtime.dbff7520.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.77d72c66.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/tracker.eea7cc16.chunk.js" defer="defer"></script>
 <script>
 //<![CDATA[
 window.snowplowOptions = {"namespace":"gl","hostname":"gitlab.opencode.de:443","postPath":"/-/collect_events","forceSecureTracker":true,"appId":"gitlab_sm"};
 gl = window.gl || {};
-gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01M392H69C15X7111CD7TJ0D23","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":1128,"ultimate_parent_namespace_id":101,"project_id":393,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-09-24T06:44:31.607Z","organization_id":1}};
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01M3BMFDT8YD5V42DKB4FAQES5","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":1128,"ultimate_parent_namespace_id":101,"project_id":393,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-09-25T06:36:36.853Z","organization_id":1}};
 gl.snowplowPseudonymizedPageUrl = "https://gitlab.opencode.de/namespace1128/project393";
 gl.maskedDefaultReferrerUrl = null;
 gl.ga4MeasurementId = 'G-ENFH3X7M5Y';
@@ -123,25 +123,25 @@ gl.onlySendDuoEvents = false;
 <script src="/assets/webpack/commons-pages.dashboard.home-pages.organizations.artifact_registry.index-pages.organizations.artifac-0ec6a7be.60fec4aa.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/0dcf7166.63feabc4.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/commons-pages.dashboard.home-super_sidebar.8bfd0fec.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/super_sidebar.f608856e.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/super_sidebar.1172bffd.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/commons-pages.groups-pages.groups.achievements-pages.groups.activity-pages.groups.analytics.ci_cd_an-8c6518ba.75304a09.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/8632254b.a6157aae.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.groups.saved_views.show-pages.groups.security.policies.edit-pages.groups.security.poli-54630d59.d01b379a.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.groups.saved_views.show-pages.groups.security.policies.edit-pages.groups.security.poli-54630d59.c7781bef.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/32327915.caf6ba4e.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/ed0254de.96c8fa40.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/68026c34.607df987.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/ed0254de.24ce3006.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/68026c34.156e4264.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/69e597b7.774dcdfd.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.blob.show.vue3-pages.projects.show-pages.projects.sn-47e53e7d.f65a4750.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/commons-pages.admin.projects.index-pages.dashboard.projects-pages.explore.projects-pages.groups.show-a1c4592e.d9c4a75f.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.groups.show-pages.groups.show.vue3-pages.projects.blob.show-pages.projects.blob.show.v-5ea86891.d4c3620a.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.groups.show-pages.groups.show.vue3-pages.projects.blob.show-pages.projects.blob.show.v-5ea86891.2b14120c.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/commons-pages.projects.blob.edit-pages.projects.blob.new-pages.projects.blob.show-pages.projects.get-487ddc08.fe1b1315.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.blob.show.vue3-pages.projects.show-pages.projects.tr-c392bf45.37788674.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.snippets.show-pages.projects.tre-c684fcf6.6da55b64.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.blob.show.vue3-pages.projects.show-pages.projects.tr-c392bf45.f5a3c870.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.snippets.show-pages.projects.tre-c684fcf6.2d92b44a.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/5c4e8ba8.8faf6445.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.commits.show-pages.projects.show-pages.projects.tree.show.62323a66.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show.a7612fe3.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/dd41b2c8.fbc80831.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/pages.projects.show.1a20adb0.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.commits.show-pages.projects.show-pages.projects.tree.show.1630bdd6.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show.ad3c3924.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/dd41b2c8.5622219e.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/pages.projects.show.7eaf2a15.chunk.js" defer="defer"></script>
 
 <meta content="object" property="og:type">
 <meta content="GitLab" property="og:site_name">
@@ -157,7 +157,7 @@ gl.onlySendDuoEvents = false;
 <meta content="https://gitlab.opencode.de/uploads/-/system/project/avatar/393/igbvclogo.PNG" property="twitter:image">
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="5BOBIXMO-Jw_D5AiojzFs1wqua7BWJSpGIczDSFuNA66oiHoEiMtskbn1b_-GGBSXG9oyGdVHy6OP9Uz7T6q1g" />
+<meta name="csrf-token" content="eFEOHGT2RIExhCQCejughYQDcByQHsUUkENe8Fapf3CYhstCavHfKJpbtWBmrDCkPfsqxqVv8_VKtjEtbkzroQ" />
 <meta name="csp-nonce" />
 <meta name="action-cable-url" content="/-/cable" />
 <link href="/-/manifest.json" rel="manifest">
