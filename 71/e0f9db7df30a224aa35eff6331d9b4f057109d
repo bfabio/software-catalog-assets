@@ -61,7 +61,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"A-RZgJHPRtlC3rIo8DBDjqaKD3znPm0kFzfoE7B1k1CxN2dB6VVW8JYhKOmmu0kOypsTIYp7nIFy93yI0ha0Lg","x-gitlab-feature-category":"groups_and_projects"};
+  const headers = {"X-CSRF-Token":"LPo2e9OlclzlYYzFFudekpPTAAkbNW2aUSp1i99-FRKvX8OX9bheeLrIXW0adcGluTDosSshczA0Li6rKW6WrQ","x-gitlab-feature-category":"groups_and_projects"};
   const url = `https://gitlab.opencode.de/api/graphql`
 
   const opts = {
@@ -106,7 +106,7 @@ if (gl.startup_graphql_calls && window.fetch) {
 //<![CDATA[
 window.snowplowOptions = {"namespace":"gl","hostname":"gitlab.opencode.de:443","postPath":"/-/collect_events","forceSecureTracker":true,"appId":"gitlab_sm"};
 gl = window.gl || {};
-gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01M3BMFMC5Q485ERC599SYQK98","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":6932,"ultimate_parent_namespace_id":101,"project_id":2559,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-09-25T06:36:43.750Z","organization_id":1}};
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01M3E6Z0TJH9MGFVD7SMGJZ2JP","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":6932,"ultimate_parent_namespace_id":101,"project_id":2559,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-09-26T06:38:11.098Z","organization_id":1}};
 gl.snowplowPseudonymizedPageUrl = "https://gitlab.opencode.de/namespace6932/project2559";
 gl.maskedDefaultReferrerUrl = null;
 gl.ga4MeasurementId = 'G-ENFH3X7M5Y';
@@ -157,7 +157,7 @@ gl.onlySendDuoEvents = false;
 <meta content="https://gitlab.opencode.de/uploads/-/system/project/avatar/2559/igbvclogo.PNG" property="twitter:image">
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="znxPEE8x97KWQ4-gpIBjNhrhT1UVauTnFESFM6l3X3t8r3HRN6vnm0K8FWHyC2m2dvBTCHgvFUJxhBGoyxR4BQ" />
+<meta name="csrf-token" content="UFVsgZtBeMsEqnB4_yU3IhDW3uY9_NUFdeKqmgitIxTT8JltvVxU71sDodDzt6gVOjU2Xg3oy68Q5vG6_r2gqw" />
 <meta name="csp-nonce" />
 <meta name="action-cable-url" content="/-/cable" />
 <link href="/-/manifest.json" rel="manifest">
