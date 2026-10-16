@@ -16,13 +16,13 @@
 <link as="font" crossorigin="" href="/assets/gitlab-mono/GitLabMono-29c2152dac8739499dd0fe5cd37a486ebcc7d4798c9b6d3aeab65b3172375b05.woff2" rel="preload">
 <link as="font" crossorigin="" href="/assets/gitlab-mono/GitLabMono-Italic-af36701a2188df32a9dcea12e0424c380019698d4f76da9ad8ea2fd59432cf83.woff2" rel="preload">
 
-<script nonce="ATsmqXvRjagUZFhX6mCMBA==">
+<script nonce="LXI2CXZRYAn7eRx05TcIEw==">
 //<![CDATA[
 window.gon={};gon.math_rendering_limits_enabled=true;gon.features={"allowIframesInMarkdown":false,"useMermaidV12":false,"repositoryLockInformation":true,"blameAgentSessions":false};gon.licensed_features={"remoteDevelopment":true};gon.abilities={"readCodeNavigation":false};
 //]]>
 </script>
 
-<script nonce="ATsmqXvRjagUZFhX6mCMBA==">
+<script nonce="LXI2CXZRYAn7eRx05TcIEw==">
 //<![CDATA[
 const root = document.documentElement;
 if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
@@ -39,7 +39,7 @@ window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e)
 
 //]]>
 </script>
-<script nonce="ATsmqXvRjagUZFhX6mCMBA==">
+<script nonce="LXI2CXZRYAn7eRx05TcIEw==">
 //<![CDATA[
 var gl = window.gl || {};
 gl.startup_calls = {"/comune-di-misterbianco/sitemanager-3/-/blob/main/images/screen1.png?format=json\u0026viewer=rich":{}};
@@ -62,7 +62,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"5NdjSe8e2CwixQ4A-wySD-ikBwMSjpB275HJWBg_e-IN8l6u4hOtXSx2HA_hSW1GcfXHj2vXiaF4DF-p2odKKA","x-gitlab-feature-category":"source_code_management"};
+  const headers = {"X-CSRF-Token":"8m0te1QvexAoDfB-kwlybKbneRLOqHeKbpjms2WsnxYs1YQUk7VvMUErx0-g9NvQ-qdlFoPH57RF-Wd3Y7e7zg","x-gitlab-feature-category":"source_code_management"};
   const url = `https://gitlab.com/api/graphql`
 
   const opts = {
@@ -87,27 +87,27 @@ if (gl.startup_graphql_calls && window.fetch) {
 //]]>
 </script>
 
-<link rel="prefetch" href="/assets/webpack/monaco.6da33e98.chunk.js">
+<link rel="prefetch" href="/assets/webpack/monaco.1d3865d6.chunk.js">
 
 <meta content="light dark" name="color-scheme">
-<link rel="stylesheet" href="/assets/application-a2722125acad731cd1240a128b6f402e88b32fb5f38fe43199c6d2851ebde9df.css" media="(prefers-color-scheme: light)" />
-<link rel="stylesheet" href="/assets/application_dark-b32050d36d3f7ae488b78324bd56500f61ec9d421f9d0c29443a7bf4f01a2149.css" media="(prefers-color-scheme: dark)" />
-<link rel="stylesheet" href="/assets/page_bundles/tree-c7ee4210fee3e1004d99dd5eb2483d2711447051180f46718d8cd1bc741b455a.css" /><link rel="stylesheet" href="/assets/page_bundles/projects-ae0fda29f5345a932d94d7b5f6d4fdd270c3e275d80081f644bf6f9ca37bbb98.css" /><link rel="stylesheet" href="/assets/page_bundles/commit_description-9e7efe20f0cef17d0606edabfad0418e9eb224aaeaa2dae32c817060fa60abcc.css" /><link rel="stylesheet" href="/assets/page_bundles/design_management-4765252040ab8edacfb27d7015bf41527629b0dc4fdacd1f1bc9d3f65cecae1b.css" /><link rel="stylesheet" href="/assets/page_bundles/issuable_list-7a33f8b5a79c609e4bac7e1fa1c5553962adf726cd700fbead1f9e974c41e7c9.css" /><link rel="stylesheet" href="/assets/page_bundles/issues_list-1d9cdbbaf9469f9073c410dc7a7f2543b02071773aa332daf63803eaaec87e62.css" /><link rel="stylesheet" href="/assets/page_bundles/issues_show-ec954ae4932e0bfe7383adee3c75f53c5985c6edea62c7ae4370cb1f6e85a91a.css" /><link rel="stylesheet" href="/assets/page_bundles/notes_shared-bd75305a90734f71761e8d13c4286994caf487acb52219ee52dcc65c0c3f6a05.css" /><link rel="stylesheet" href="/assets/page_bundles/work_items-2c43c5516f6fe83884af6c0a2428552b4bf352d37a53710c826677cc23641e31.css" />
-<link rel="stylesheet" href="/assets/tailwind-8fb70d35b8efe7db6c4fce601e5c2b0630ce68394c4297c2bccabd7684e72a2d.css" />
+<link rel="stylesheet" href="/assets/application-e1d3b1ae277c8de906e0e49523852cef214894fa16c7ec5b26ea2e9708bba494.css" media="(prefers-color-scheme: light)" />
+<link rel="stylesheet" href="/assets/application_dark-29151a7d089179a83cdb79b5c2b6370d001b21719e2c838cdcd2099067d6b82f.css" media="(prefers-color-scheme: dark)" />
+<link rel="stylesheet" href="/assets/page_bundles/tree-c7ee4210fee3e1004d99dd5eb2483d2711447051180f46718d8cd1bc741b455a.css" /><link rel="stylesheet" href="/assets/page_bundles/projects-ae0fda29f5345a932d94d7b5f6d4fdd270c3e275d80081f644bf6f9ca37bbb98.css" /><link rel="stylesheet" href="/assets/page_bundles/commit_description-9e7efe20f0cef17d0606edabfad0418e9eb224aaeaa2dae32c817060fa60abcc.css" /><link rel="stylesheet" href="/assets/page_bundles/design_management-4765252040ab8edacfb27d7015bf41527629b0dc4fdacd1f1bc9d3f65cecae1b.css" /><link rel="stylesheet" href="/assets/page_bundles/issuable_list-7a33f8b5a79c609e4bac7e1fa1c5553962adf726cd700fbead1f9e974c41e7c9.css" /><link rel="stylesheet" href="/assets/page_bundles/issues_list-1d9cdbbaf9469f9073c410dc7a7f2543b02071773aa332daf63803eaaec87e62.css" /><link rel="stylesheet" href="/assets/page_bundles/issues_show-ec954ae4932e0bfe7383adee3c75f53c5985c6edea62c7ae4370cb1f6e85a91a.css" /><link rel="stylesheet" href="/assets/page_bundles/notes_shared-bd75305a90734f71761e8d13c4286994caf487acb52219ee52dcc65c0c3f6a05.css" /><link rel="stylesheet" href="/assets/page_bundles/work_items-c427d5d2641843f30c42759bd947e4919469883cf0fe33d9ebab5af65d69aeed.css" />
+<link rel="stylesheet" href="/assets/tailwind-a278519790d8fed6e8f56fd66e6cd06e988d696677bd65453a6c622805be710a.css" />
 
 
 <link rel="stylesheet" href="/assets/fonts-deb7ad1d55ca77c0172d8538d53442af63604ff490c74acc2859db295c125bdb.css" />
-<link rel="stylesheet" href="/assets/highlight/themes/white-2a02e7cdb193dcec5b8068ad0a57aee70b1cd0888c8d1dbe8ab5996651334922.css" media="(prefers-color-scheme: light)" />
-<link rel="stylesheet" href="/assets/highlight/themes/dark-7fbedc840cde3d684b77966ee3740cd6cf4ba7c26a807b7c8701223af70f772f.css" media="(prefers-color-scheme: dark)" />
+<link rel="stylesheet" href="/assets/highlight/themes/white-2eda27ebac25f448bad427fe34f2446b40524ec2af0e8792505c5cb3e63ffe1a.css" media="(prefers-color-scheme: light)" />
+<link rel="stylesheet" href="/assets/highlight/themes/dark-d34ecf11e13f000cba4f4a2d30266ba4f378b1f9fc1fee97a0670cddc2afe489.css" media="(prefers-color-scheme: dark)" />
 
-<script src="/assets/webpack/runtime.53c03462.bundle.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/main.27155c2a.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/tracker.1eb446cb.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script nonce="ATsmqXvRjagUZFhX6mCMBA==">
+<script src="/assets/webpack/runtime.f67eef67.bundle.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/main.e6450d9e.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/tracker.1eb446cb.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script nonce="LXI2CXZRYAn7eRx05TcIEw==">
 //<![CDATA[
 window.snowplowOptions = {"namespace":"gl","hostname":"snowplowprd.trx.gitlab.net","cookieDomain":".gitlab.com","appId":"gitlab","formTracking":true,"linkClickTracking":true};
 gl = window.gl || {};
-gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"production","source":"gitlab-rails","client_type":"api","correlation_id":"a4adc2fdfc8dd6f1-IAD","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":58437872,"ultimate_parent_namespace_id":58437872,"project_id":39781940,"feature_enabled_by_namespace_ids":null,"realm":"saas","deployment_type":".com","context_generated_at":"2026-10-15T09:22:51.488Z","organization_id":1}};
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"production","source":"gitlab-rails","client_type":"api","correlation_id":"a4b5fdc84b84ec46-IAD","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":58437872,"ultimate_parent_namespace_id":58437872,"project_id":39781940,"feature_enabled_by_namespace_ids":null,"realm":"saas","deployment_type":".com","context_generated_at":"2026-10-16T09:21:05.599Z","organization_id":1}};
 gl.snowplowPseudonymizedPageUrl = "https://gitlab.com/namespace58437872/project39781940/-/blob/:repository_path";
 gl.maskedDefaultReferrerUrl = null;
 gl.ga4MeasurementId = 'G-ENFH3X7M5Y';
@@ -119,38 +119,37 @@ gl.onlySendDuoEvents = false;
 </script>
 
 
-<script src="/assets/webpack/sentry.b2dbf009.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
+<script src="/assets/webpack/sentry.b2dbf009.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
 
-<script src="/assets/webpack/872eff31.33dcddfb.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-duo_panel.vue3-pages.admin.application_settings.ci_cd.vue3-pages.admin.application_settings.-5c376012.25b455c0.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-duo_panel.vue3-pages.admin.application_settings.ci_cd.vue3-pages.admin.application_settings.-127d7c95.f50bdfff.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-pages.groups.activity.vue3-pages.groups.analytics.ci_cd_analytics.vue3-pages.groups.analytic-a8730732.1decd6fe.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-graphql_explorer-pages.admin.application_settings.general-pages.admin.application_settings.s-758764d0.4e03df81.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-pages.admin.abuse_reports.show-pages.dashboard.issues-pages.dashboard.issues.vue3-pages.dash-2a5e5aa7.07c857b3.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-pages.admin.abuse_reports.show-pages.dashboard.issues-pages.dashboard.issues.vue3-pages.dash-e0bb97e5.e3ede225.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-pages.explore.ai_catalog.vue3-pages.explore.analytics_dashboards.vue3-pages.explore.catalog.-1b3d8cee.f30880fb.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-duo_panel-duo_panel.vue3-pages.dashboard.home-pages.registrations.new-pages.root-pages.root.-808e6e09.466080f8.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-pages.admin.deploy_keys.index-pages.admin.deploy_keys.index.vue3-pages.admin.groups.index-pa-cdd82189.51b0f93b.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-pages.dashboard.home-pages.projects.snippets.show-pages.projects.snippets.show.vue3-pages.ro-3e3d840b.db458a62.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-pages.dashboard.issues.vue3-pages.dashboard.work_items.vue3-pages.groups.boards.vue3-pages.g-7cf1e7da.b4310289.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/0dcf7166.fee24f6c.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-pages.search.show-pages.search.show.vue3-super_sidebar-super_sidebar.vue3.e1ab1d65.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-super_sidebar-super_sidebar.vue3.6fa28af5.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-pages.search.show.vue3-super_sidebar.vue3.25fcbdad.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/super_sidebar.vue3.89bd12b8.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-pages.projects-pages.projects.activity-pages.projects.activity.vue3-pages.projects.alert_man-eb7e1b50.3d5e7bfc.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-duo_panel.vue3-pages.admin.application_settings.work_item.vue3-pages.admin.data_management.s-160d0ae2.3785f275.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-pages.groups.activity.vue3-pages.groups.analytics.ci_cd_analytics.vue3-pages.groups.analytic-adb1cf7c.f772d555.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-duo_panel.vue3-pages.admin.organizations.settings.general.vue3-pages.admin.topics.edit.vue3--227c0173.9aa26018.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/8632254b.1095b752.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/32327915.1380fd7d.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-pages.groups.security.policies.edit.vue3-pages.groups.security.policies.new.vue3-pages.proje-be7732f3.a437ea18.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-pages.admin.integrations.edit.vue3-pages.admin.organizations.integrations.edit.vue3-pages.gr-75cd30e5.115c2021.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.blob.show.vue3-pages.projects.show-pages.projects.sh-d9a73511.5e11a67b.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/bb2ca122.e0372539.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/commons-pages.projects.blob.edit-pages.projects.blob.edit.vue3-pages.projects.blob.new-pages.project-e358815f.9693a5b1.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/69e597b7.774dcdfd.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
-<script src="/assets/webpack/pages.projects.blob.show.vue3.01ca2d9f.chunk.js" defer="defer" nonce="ATsmqXvRjagUZFhX6mCMBA=="></script>
+<script src="/assets/webpack/a37795e7.33f02656.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-pages.groups.activity.vue3-pages.groups.analytics.ci_cd_analytics.vue3-pages.groups.analytic-7362f258.4205d569.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-pages.admin.abuse_reports.show-pages.dashboard.issues-pages.dashboard.issues.vue3-pages.dash-2a5e5aa7.07c857b3.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-pages.admin.abuse_reports.show-pages.dashboard.issues-pages.dashboard.issues.vue3-pages.dash-4f7a0a61.a99322cc.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-pages.explore.ai_catalog.vue3-pages.explore.analytics_dashboards.vue3-pages.explore.catalog.-2dc5859c.3c3292cb.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-duo_panel-duo_panel.vue3-pages.dashboard.home-pages.registrations.new-pages.root-pages.root.-808e6e09.466080f8.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-pages.admin.deploy_keys.index-pages.admin.deploy_keys.index.vue3-pages.admin.groups.index-pa-cdd82189.51b0f93b.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-pages.dashboard.home-pages.projects.snippets.show-pages.projects.snippets.show.vue3-pages.ro-3e3d840b.db458a62.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-pages.dashboard.issues.vue3-pages.dashboard.work_items.vue3-pages.groups.boards.vue3-pages.g-7cf1e7da.983ffe32.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/0dcf7166.fee24f6c.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-super_sidebar-super_sidebar.vue3.6c0e0a6f.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-pages.search.show.vue3-super_sidebar.vue3.f03a77b8.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/super_sidebar.vue3.4fab8382.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-pages.projects-pages.projects.activity-pages.projects.activity.vue3-pages.projects.alert_man-eb7e1b50.3d5e7bfc.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-duo_panel.vue3-pages.admin.application_settings.work_item.vue3-pages.admin.data_management.s-a4485d24.068a09cb.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-pages.groups.activity.vue3-pages.groups.analytics.ci_cd_analytics.vue3-pages.groups.analytic-49d6423f.2140ef53.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-duo_panel.vue3-pages.admin.organizations.settings.general.vue3-pages.admin.topics.edit.vue3--227c0173.9bcafcf9.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/8632254b.1095b752.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/32327915.1380fd7d.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-pages.groups.security.policies.edit.vue3-pages.groups.security.policies.new.vue3-pages.proje-be7732f3.1fe1af72.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.blob.show.vue3-pages.projects.show-pages.projects.sh-7aa92eaa.dc684ab1.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/bb2ca122.259266ac.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-pages.projects.blob.edit-pages.projects.blob.edit.vue3-pages.projects.blob.new-pages.project-f1df0f6f.f20646f8.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/69e597b7.774dcdfd.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.blob.show.vue3-pages.projects.show-pages.projects.sh-d934921b.c9b387bb.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.blob.show.vue3-pages.projects.show-pages.projects.sh-4ce70f9d.08460c1d.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.blob.show.vue3-pages.projects.show-pages.projects.tr-c392bf45.44df6c95.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show.vue3-pages.projects.snippets.show.vue3-pages.projects.tree.show.vue-2100499f.3feebfb2.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
+<script src="/assets/webpack/pages.projects.blob.show.vue3.45dc2b40.chunk.js" defer="defer" nonce="LXI2CXZRYAn7eRx05TcIEw=="></script>
 
 <meta content="object" property="og:type">
 <meta content="GitLab" property="og:site_name">
@@ -166,8 +165,8 @@ gl.onlySendDuoEvents = false;
 <meta content="https://gitlab.com/uploads/-/system/project/avatar/39781940/logo-cms.png?v=1772532464" property="twitter:image">
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="zzLp4miQ4g4ilxFhKHZXhG7770uJ7ztIX3Ehft8vOgomF9QFZZ2XfywkA24yM6jN96ovx_C2Ip_I7LePHZcLwA" />
-<meta name="csp-nonce" content="ATsmqXvRjagUZFhX6mCMBA==" />
+<meta name="csrf-token" content="SwnLYBZ0qf38-XTtRzD6P1JMwO3mHk74EalPllMAmXmVsWIP0e693JXfQ9x0zVODDgzc6atx3sY6yM5SVRu9oQ" />
+<meta name="csp-nonce" content="LXI2CXZRYAn7eRx05TcIEw==" />
 <meta name="action-cable-url" content="/-/cable" />
 <link crossorigin="use-credentials" href="/-/manifest.json" rel="manifest">
 <link rel="icon" type="image/png" href="/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" id="favicon" data-original-href="/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" />
@@ -185,7 +184,7 @@ gl.onlySendDuoEvents = false;
 <body class="tab-width-8 gl-browser-generic gl-platform-other" data-group="comune-di-misterbianco" data-group-full-path="comune-di-misterbianco" data-namespace-id="58437872" data-page="projects:blob:show" data-page-type-id="main/images/screen1.png" data-project="sitemanager-3" data-project-full-path="comune-di-misterbianco/sitemanager-3" data-project-id="39781940">
 <div id="js-tooltips-container"></div>
 
-<script nonce="ATsmqXvRjagUZFhX6mCMBA==">
+<script nonce="LXI2CXZRYAn7eRx05TcIEw==">
 //<![CDATA[
 gl = window.gl || {};
 gl.client = {"isGeneric":true,"isOther":true};
@@ -197,7 +196,7 @@ gl.client = {"isGeneric":true,"isOther":true};
 
 <header class="super-topbar js-super-topbar"></header>
 <div class="layout-page js-page-layout page-with-super-sidebar">
-<script nonce="ATsmqXvRjagUZFhX6mCMBA==">
+<script nonce="LXI2CXZRYAn7eRx05TcIEw==">
 //<![CDATA[
 const outer = document.createElement('div');
 outer.style.visibility = 'hidden';
@@ -317,7 +316,7 @@ document.documentElement.style.setProperty('--scrollbar-width', `${scrollbarWidt
 
 </div>
 </div>
-<script nonce="ATsmqXvRjagUZFhX6mCMBA==">
+<script nonce="LXI2CXZRYAn7eRx05TcIEw==">
 //<![CDATA[
   window.gl = window.gl || {};
   window.gl.webIDEPath = '/-/ide/project/comune-di-misterbianco/sitemanager-3/edit/main/-/images/screen1.png'
@@ -345,7 +344,7 @@ document.documentElement.style.setProperty('--scrollbar-width', `${scrollbarWidt
 </div>
 
 
-<script nonce="ATsmqXvRjagUZFhX6mCMBA==">
+<script nonce="LXI2CXZRYAn7eRx05TcIEw==">
 //<![CDATA[
 if ('loading' in HTMLImageElement.prototype) {
   document.querySelectorAll('img.lazy').forEach(img => {
@@ -368,7 +367,7 @@ if ('loading' in HTMLImageElement.prototype) {
 
 //]]>
 </script>
-<script nonce="ATsmqXvRjagUZFhX6mCMBA==">
+<script nonce="LXI2CXZRYAn7eRx05TcIEw==">
 //<![CDATA[
 gl = window.gl || {};
 gl.experiments = {};
