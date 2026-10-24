@@ -59,7 +59,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"QEGZk5-qIkoDrIQPLcyYdPoDDUnL2uAJ5ig2BnvspWh3UJChixETH0ToTUEiovU4fWbqWexL3w2i46H-KqJ6eg","x-gitlab-feature-category":"source_code_management"};
+  const headers = {"X-CSRF-Token":"is1Dc2acToLR_46_S2xZotFnRMFS1bPr4HnHuteHyRN8NtCZT5grnBDgP949ZpWuiHpsCp3JIIY6m2XEKYM0Hw","x-gitlab-feature-category":"source_code_management"};
   const url = `https://oros-git.regione.puglia.it/api/graphql`
 
   const opts = {
@@ -104,7 +104,7 @@ if (gl.startup_graphql_calls && window.fetch) {
 //<![CDATA[
 window.snowplowOptions = {"namespace":"gl","hostname":"oros-git.regione.puglia.it:443","postPath":"/-/collect_events","forceSecureTracker":true,"appId":"gitlab_sm"};
 gl = window.gl || {};
-gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01M5M1S06BN03MMC4G94C0673G","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":1048,"ultimate_parent_namespace_id":940,"project_id":397,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-10-23T11:34:21.121+02:00","organization_id":1}};
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01M5PKPBWBWT4WGP2FS95657K9","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":1048,"ultimate_parent_namespace_id":940,"project_id":397,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-10-24T11:25:58.007+02:00","organization_id":1}};
 gl.snowplowPseudonymizedPageUrl = "https://oros-git.regione.puglia.it/namespace1048/project397/-/blob/:repository_path";
 gl.maskedDefaultReferrerUrl = null;
 gl.ga4MeasurementId = 'G-ENFH3X7M5Y';
@@ -148,7 +148,7 @@ gl.onlySendDuoEvents = false;
 <meta content="https://oros-git.regione.puglia.it/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" property="twitter:image">
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="C2uzao3I97jOzu60TISE5he1t4hcQcd1GUqk1lT1ux48erpYmXPG7YmKJ_pD6umqkNBQmHvQ-HFdgTMuBbtkDA" />
+<meta name="csrf-token" content="yfFpeloYUz3lcFDjjUtmoRBIAVuCabSKrRsHbloOG6Y_CvqQcxw2IyRv4YL7QaqtSVUpkE11J-d3-aUQpArmqg" />
 <meta name="csp-nonce" />
 <meta name="action-cable-url" content="/-/cable" />
 <link href="/-/manifest.json" rel="manifest">
@@ -199,22 +199,6 @@ document.documentElement.style.setProperty('--scrollbar-width', `${scrollbarWidt
 <div class="paneled-view static-panel js-static-panel js-paneled-view content-wrapper">
 <div class="panel-header">
 <div class="broadcast-wrapper">
-
-<div class="gl-broadcast-message banner js-broadcast-notification-3 light-red" data-broadcast-banner data-testid="banner-broadcast-message" role="alert">
-<div class="gl-broadcast-message-content">
-<div class="gl-broadcast-message-icon">
-<svg class="s16" data-testid="bullhorn-icon"><use href="/assets/icons-744c96d42bcc6345fdb1c870432a980c5f983ed177df344a4a5f94b625ac4ce8.svg#bullhorn"></use></svg>
-</div>
-<div class="gl-broadcast-message-text">
-<h2 class="gl-sr-only">Admin message</h2>
-<p>AVVISO DI MANUTENZIONE STRAORDINARIA</p>
-<p>Si informa che nella giornata odierna, dalle ore 17:00 alle ore 18:00, saranno effettuate attività di manutenzione straordinaria sulla piattaforma GitLab.</p>
-<p>Durante tale intervallo il servizio potrebbe risultare temporaneamente indisponibile o presentare malfunzionamenti.</p>
-<p>Si invitano pertanto tutti gli utenti a completare e salvare le attività in corso prima dell'inizio della manutenzione, poiché eventuali operazioni effettuate durante la finestra di intervento potrebbero non essere correttamente registrate o salvate.</p>
-</div>
-</div>
-</div>
-
 
 
 
