@@ -16,13 +16,13 @@
 <link as="font" crossorigin="" href="/assets/gitlab-mono/GitLabMono-29c2152dac8739499dd0fe5cd37a486ebcc7d4798c9b6d3aeab65b3172375b05.woff2" rel="preload">
 <link as="font" crossorigin="" href="/assets/gitlab-mono/GitLabMono-Italic-af36701a2188df32a9dcea12e0424c380019698d4f76da9ad8ea2fd59432cf83.woff2" rel="preload">
 
-<script nonce="fBzVDo0oU/3gpg9JsxNwTg==">
+<script nonce="JJb0kEbQCx8Jel24vY/uRQ==">
 //<![CDATA[
 window.gon={};gon.math_rendering_limits_enabled=true;gon.features={"allowIframesInMarkdown":false,"useMermaidV12":true,"markdownPlaceholders":false,"blameAgentSessions":false};gon.licensed_features={"remoteDevelopment":true};gon.abilities={"readCodeNavigation":false};
 //]]>
 </script>
 
-<script nonce="fBzVDo0oU/3gpg9JsxNwTg==">
+<script nonce="JJb0kEbQCx8Jel24vY/uRQ==">
 //<![CDATA[
 const root = document.documentElement;
 if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
@@ -39,7 +39,7 @@ window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e)
 
 //]]>
 </script>
-<script nonce="fBzVDo0oU/3gpg9JsxNwTg==">
+<script nonce="JJb0kEbQCx8Jel24vY/uRQ==">
 //<![CDATA[
 var gl = window.gl || {};
 gl.startup_calls = {"/comune-di-misterbianco/sitemanager-3/-/blob/main/images/screen2.png?format=json\u0026viewer=rich":{}};
@@ -62,7 +62,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"zgN5kobhxjjZMcezo38IPrZzwxPHGR4_K5AxymudmlJ9Vw-UqU73rivj1vPcBTa491etio2ii0i2Hx4Ys-IhLA","x-gitlab-feature-category":"source_code_management"};
+  const headers = {"X-CSRF-Token":"rZRyfuoLq-Vfsg9zDqqlEI0swwNt3aIHtgn-PXGUcN8X_VAUtni584utspjUtZ_A3ZQvM92yAtrhd7b-Mypavw","x-gitlab-feature-category":"source_code_management"};
   const url = `https://gitlab.com/api/graphql`
 
   const opts = {
@@ -87,27 +87,27 @@ if (gl.startup_graphql_calls && window.fetch) {
 //]]>
 </script>
 
-<link rel="prefetch" href="/assets/webpack/monaco.f5216fce.chunk.js">
+<link rel="prefetch" href="/assets/webpack/monaco.32bfef1b.chunk.js">
 
 <meta content="light dark" name="color-scheme">
-<link rel="stylesheet" href="/assets/application-52aa1c296934bac185417efb6dc96a753dd7ea5343e39f489f0a35dce0f52972.css" media="(prefers-color-scheme: light)" />
-<link rel="stylesheet" href="/assets/application_dark-340f3bdf9b0bfdac89932428374bc6cb8372cdadc6bc203e82f59417dd55a008.css" media="(prefers-color-scheme: dark)" />
+<link rel="stylesheet" href="/assets/application-556ee93883c8b596ebf31b82173b2c640ade4779e4cea54ce0532d2c3747f491.css" media="(prefers-color-scheme: light)" />
+<link rel="stylesheet" href="/assets/application_dark-e43044bfc68d83821e0f2fba163d904112af7ab8b15443fcbe180e2be90b62e5.css" media="(prefers-color-scheme: dark)" />
 <link rel="stylesheet" href="/assets/page_bundles/tree-9d41c722a4b6da0c6af2f978df61810efacfb61e829b145c57d096dd65905ee6.css" /><link rel="stylesheet" href="/assets/page_bundles/projects-ae0fda29f5345a932d94d7b5f6d4fdd270c3e275d80081f644bf6f9ca37bbb98.css" /><link rel="stylesheet" href="/assets/page_bundles/commit_description-9e7efe20f0cef17d0606edabfad0418e9eb224aaeaa2dae32c817060fa60abcc.css" /><link rel="stylesheet" href="/assets/page_bundles/design_management-4765252040ab8edacfb27d7015bf41527629b0dc4fdacd1f1bc9d3f65cecae1b.css" /><link rel="stylesheet" href="/assets/page_bundles/issuable_list-7a33f8b5a79c609e4bac7e1fa1c5553962adf726cd700fbead1f9e974c41e7c9.css" /><link rel="stylesheet" href="/assets/page_bundles/issues_list-1d9cdbbaf9469f9073c410dc7a7f2543b02071773aa332daf63803eaaec87e62.css" /><link rel="stylesheet" href="/assets/page_bundles/issues_show-ec954ae4932e0bfe7383adee3c75f53c5985c6edea62c7ae4370cb1f6e85a91a.css" /><link rel="stylesheet" href="/assets/page_bundles/notes_shared-a3178ba4c56d7448e82377c4b5cb5b4e6b536505f7ef9977efc391b6b54c7b00.css" /><link rel="stylesheet" href="/assets/page_bundles/work_items-3a64597c7b567f7598ad75d107b0be6397ce899566b3bf8ae7788836a1e57e01.css" />
-<link rel="stylesheet" href="/assets/tailwind-eec684e7bd80a0581b7808ef4d8b755bfff23a5d5ab141458909fba2ae372a90.css" />
+<link rel="stylesheet" href="/assets/tailwind-ed5a76c6592bfd0a854989a56a84b0f6aa85d4d415e15c7e37bcff1dc21e29e7.css" />
 
 
 <link rel="stylesheet" href="/assets/fonts-deb7ad1d55ca77c0172d8538d53442af63604ff490c74acc2859db295c125bdb.css" />
 <link rel="stylesheet" href="/assets/highlight/themes/white-c68fe5039b0e15ae9b451d4a67dfccf087f53a6d6a5c6e552d3b18943d1c861c.css" media="(prefers-color-scheme: light)" />
 <link rel="stylesheet" href="/assets/highlight/themes/dark-b908a3c2aa81a8a7fddc7614443e8dd3cff452f4c58359cd13e7e2e1776900f6.css" media="(prefers-color-scheme: dark)" />
 
-<script src="/assets/webpack/runtime.d885ad94.bundle.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/framework.90d3fe62.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/tracker.663eadd4.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script nonce="fBzVDo0oU/3gpg9JsxNwTg==">
+<script src="/assets/webpack/runtime.a1acd616.bundle.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/framework.90d3fe62.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/tracker.663eadd4.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script nonce="JJb0kEbQCx8Jel24vY/uRQ==">
 //<![CDATA[
 window.snowplowOptions = {"namespace":"gl","hostname":"snowplowprd.trx.gitlab.net","cookieDomain":".gitlab.com","appId":"gitlab","formTracking":true,"linkClickTracking":true};
 gl = window.gl || {};
-gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"production","source":"gitlab-rails","client_type":"api","correlation_id":"a51937c06c55e895-MSP","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":58437872,"ultimate_parent_namespace_id":58437872,"project_id":39781940,"feature_enabled_by_namespace_ids":null,"realm":"saas","deployment_type":".com","context_generated_at":"2026-10-28T10:22:10.287Z","organization_id":1}};
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"production","source":"gitlab-rails","client_type":"api","correlation_id":"a52192ac5bc6fa3a-SJC","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":58437872,"ultimate_parent_namespace_id":58437872,"project_id":39781940,"feature_enabled_by_namespace_ids":null,"realm":"saas","deployment_type":".com","context_generated_at":"2026-10-29T10:42:20.515Z","organization_id":1}};
 gl.snowplowPseudonymizedPageUrl = "https://gitlab.com/namespace58437872/project39781940/-/blob/:repository_path";
 gl.maskedDefaultReferrerUrl = null;
 gl.ga4MeasurementId = 'G-ENFH3X7M5Y';
@@ -119,34 +119,33 @@ gl.onlySendDuoEvents = false;
 </script>
 
 
-<script src="/assets/webpack/main_shared.09e29cc1.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/sentry.b5494b8e.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
+<script src="/assets/webpack/main_shared.a3e47a7f.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/sentry.b5494b8e.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
 
-<script src="/assets/webpack/vue3_runtime.75633ad7.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/gitlab_ui.f3f4ab02.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/49837.26b3bd60.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/52199.1e7f49bf.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/79164.68ea6349.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/33480.c87f8b6d.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/62379.df64f485.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/6368.b30463b3.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/48734.71923853.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/12252.b8db4425.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/78798.f5d51a20.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/super_sidebar.vue3.34a7078f.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/main.d6f5acee.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/55652.b5d61682.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/54908.d9706ee8.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/73773.56bc5f3a.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/30612.94557eb1.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/22577.781ab7ec.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/54554.da589291.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/52931.709feea9.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/25122.98f03c72.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/26194.2973ee72.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/81453.c2d9df39.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/82770.2af2ebf5.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
-<script src="/assets/webpack/pages.projects.blob.show.vue3.a71ee197.chunk.js" defer="defer" nonce="fBzVDo0oU/3gpg9JsxNwTg=="></script>
+<script src="/assets/webpack/vue3_runtime.75633ad7.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/gitlab_ui.24c1427b.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/53804.e9b296eb.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/52199.1e7f49bf.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/79164.68ea6349.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/33480.c87f8b6d.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/6368.b30463b3.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/34834.2c2a8c1b.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/6878.faf6463c.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/15121.3c729ce9.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/super_sidebar.vue3.a14d638f.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/main.33dfc50d.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/55652.b5d61682.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/54908.d9706ee8.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/73773.56bc5f3a.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/77633.3b2cf08d.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/37716.3111aa63.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/39007.0bfcf2e4.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/52813.23a8d46d.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/90480.1e32ae04.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/61863.c84c1d14.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/70297.3166e71a.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/89157.0223d45d.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
+<script src="/assets/webpack/pages.projects.blob.show.vue3.b6b72e35.chunk.js" defer="defer" nonce="JJb0kEbQCx8Jel24vY/uRQ=="></script>
 
 <meta content="object" property="og:type">
 <meta content="GitLab" property="og:site_name">
@@ -162,8 +161,8 @@ gl.onlySendDuoEvents = false;
 <meta content="https://gitlab.com/uploads/-/system/project/avatar/39781940/logo-cms.png?v=1772532464" property="twitter:image">
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="CnQ_C9mF4WqJnQDjzq7bqkz2HcPJqZnZNfR2WKDbP2O5IEkN9irQ_HtPEaOx1OUsDdJzWoMSDK6oe1mKeKSEHQ" />
-<meta name="csp-nonce" content="fBzVDo0oU/3gpg9JsxNwTg==" />
+<meta name="csrf-token" content="2K2SYkdomb7HgzSebKo9MBBhFUAqnF1pQkcL-uKsEZxixLAIGxuLqBOciXW2tQfgQNn5cJrz_bQVOUM5oBI7_A" />
+<meta name="csp-nonce" content="JJb0kEbQCx8Jel24vY/uRQ==" />
 <meta name="action-cable-url" content="/-/cable" />
 <link crossorigin="use-credentials" href="/-/manifest.json" rel="manifest">
 <link rel="icon" type="image/png" href="/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" id="favicon" data-original-href="/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" />
@@ -181,7 +180,7 @@ gl.onlySendDuoEvents = false;
 <body class="tab-width-8 gl-browser-generic gl-platform-other" data-group="comune-di-misterbianco" data-group-full-path="comune-di-misterbianco" data-namespace-id="58437872" data-page="projects:blob:show" data-page-type-id="main/images/screen2.png" data-project="sitemanager-3" data-project-full-path="comune-di-misterbianco/sitemanager-3" data-project-id="39781940">
 <div id="js-tooltips-container"></div>
 
-<script nonce="fBzVDo0oU/3gpg9JsxNwTg==">
+<script nonce="JJb0kEbQCx8Jel24vY/uRQ==">
 //<![CDATA[
 gl = window.gl || {};
 gl.client = {"isGeneric":true,"isOther":true};
@@ -193,7 +192,7 @@ gl.client = {"isGeneric":true,"isOther":true};
 
 <header class="super-topbar js-super-topbar"></header>
 <div class="layout-page js-page-layout page-with-super-sidebar">
-<script nonce="fBzVDo0oU/3gpg9JsxNwTg==">
+<script nonce="JJb0kEbQCx8Jel24vY/uRQ==">
 //<![CDATA[
 const outer = document.createElement('div');
 outer.style.visibility = 'hidden';
@@ -314,7 +313,7 @@ document.documentElement.style.setProperty('--scrollbar-width', `${scrollbarWidt
 
 </div>
 </div>
-<script nonce="fBzVDo0oU/3gpg9JsxNwTg==">
+<script nonce="JJb0kEbQCx8Jel24vY/uRQ==">
 //<![CDATA[
   window.gl = window.gl || {};
   window.gl.webIDEPath = '/-/ide/project/comune-di-misterbianco/sitemanager-3/edit/main/-/images/screen2.png'
@@ -342,7 +341,7 @@ document.documentElement.style.setProperty('--scrollbar-width', `${scrollbarWidt
 </div>
 
 
-<script nonce="fBzVDo0oU/3gpg9JsxNwTg==">
+<script nonce="JJb0kEbQCx8Jel24vY/uRQ==">
 //<![CDATA[
 if ('loading' in HTMLImageElement.prototype) {
   document.querySelectorAll('img.lazy').forEach(img => {
@@ -365,7 +364,7 @@ if ('loading' in HTMLImageElement.prototype) {
 
 //]]>
 </script>
-<script nonce="fBzVDo0oU/3gpg9JsxNwTg==">
+<script nonce="JJb0kEbQCx8Jel24vY/uRQ==">
 //<![CDATA[
 gl = window.gl || {};
 gl.experiments = {};
