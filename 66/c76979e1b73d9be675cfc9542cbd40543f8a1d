@@ -61,7 +61,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"ndX_V0wmAerGV646HxCX_yvdyr7Ez5Y4RB05K2-UtiUyBSm-AQ4VKCyovS7WCIG3dyANCz4MBFRuoDFSXXg9CA","x-gitlab-feature-category":"groups_and_projects"};
+  const headers = {"X-CSRF-Token":"HZ08zygSdJGckZI9m1kNhtKrm9SVxNVfTwfcuwU1LYc-G2tnwoSvNCaQXObxHnClFpiSRqj2rJ6ljjROS_IVMA","x-gitlab-feature-category":"groups_and_projects"};
   const url = `https://gitlab.opencode.de/api/graphql`
 
   const opts = {
@@ -99,14 +99,14 @@ if (gl.startup_graphql_calls && window.fetch) {
 <link rel="stylesheet" href="/assets/highlight/themes/white-42be68d65ac8b040938b8b730ca40aed564d4576f3f8de65a8bd3f53d41f5ef2.css" media="(prefers-color-scheme: light)" />
 <link rel="stylesheet" href="/assets/highlight/themes/dark-9a46f25e9c82f3f8bb605049dc6f2462d071fefd58002c4a9eba2cfbf694466a.css" media="(prefers-color-scheme: dark)" />
 
-<script src="/assets/webpack/runtime.62a13663.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/runtime.7f176bd4.bundle.js" defer="defer"></script>
 <script src="/assets/webpack/main.da81af73.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/tracker.1eb446cb.chunk.js" defer="defer"></script>
 <script>
 //<![CDATA[
 window.snowplowOptions = {"namespace":"gl","hostname":"gitlab.opencode.de:443","postPath":"/-/collect_events","forceSecureTracker":true,"appId":"gitlab_sm"};
 gl = window.gl || {};
-gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01M72AGAT78ED8RV6APH944Q49","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":1128,"ultimate_parent_namespace_id":101,"project_id":393,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-11-10T08:51:58.834Z","organization_id":1}};
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01M74V34HF45K99QFNTQFXT7YE","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":1128,"ultimate_parent_namespace_id":101,"project_id":393,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-11-11T08:20:20.538Z","organization_id":1}};
 gl.snowplowPseudonymizedPageUrl = "https://gitlab.opencode.de/namespace1128/project393";
 gl.maskedDefaultReferrerUrl = null;
 gl.ga4MeasurementId = 'G-ENFH3X7M5Y';
@@ -163,7 +163,7 @@ gl.onlySendDuoEvents = false;
 <meta content="https://gitlab.opencode.de/uploads/-/system/project/avatar/393/igbvclogo.PNG?v=1735690206" property="twitter:image">
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="ugY_Kqe2X7L1Ri8UAV_2QtgMaP_qayBtYdpc7L4P9iAV1unD6p5LcB-5PADIR-AKhPGvShCosgFLZ1SVjON9DQ" />
+<meta name="csrf-token" content="TwUPzU9_Mxdcdj4kZn5iCoUPGOaNpuVrVZU9h4Cbkadsg1hlpenosuZ38P8MOR8pQTwRdLCUnKq_HNVyzlypEA" />
 <meta name="csp-nonce" />
 <meta name="action-cable-url" content="/-/cable" />
 <link crossorigin="use-credentials" href="/-/manifest.json" rel="manifest">
