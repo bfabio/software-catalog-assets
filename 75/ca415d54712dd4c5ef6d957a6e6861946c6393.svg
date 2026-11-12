@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  SPDX-FileCopyrightText: 2026 Abfallwirtschaftszweckverband Ostthüringen
+  SPDX-License-Identifier: CC0-1.0
+
+  AppFramework project logo.
+
+  Motif: a mosaic of app tiles arranged around the project name. Each tile
+  stands for a building block the framework provides to an app (web pages,
+  location, camera, QR scanning, notifications, secure storage, calendar,
+  server-delivered updates, menus, security). The dashed tile is the free slot
+  an app fills with its own content.
+
+  Layout: 512 x 512 canvas, 40 px margin, 6 x 6 grid with 62 px cells and
+  12 px gutters (column/row origins 40, 114, 188, 262, 336, 410).
+
+  The name is live text with a generic sans-serif fallback chain; textLength
+  pins its width so the layout holds whichever font the renderer picks.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-labelledby="applogo-title applogo-desc">
+  <title id="applogo-title">AppFramework</title>
+  <desc id="applogo-desc">A mosaic of colourful app tiles with feature icons, arranged around a white card that carries the name AppFramework.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2A3447"/>
+      <stop offset="1" stop-color="#1A2130"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#45B4F0"/>
+      <stop offset="1" stop-color="#1F86D1"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FBA24C"/>
+      <stop offset="1" stop-color="#EE6F2D"/>
+    </linearGradient>
+    <linearGradient id="yellow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FCCB52"/>
+      <stop offset="1" stop-color="#F2A32A"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#43D3B4"/>
+      <stop offset="1" stop-color="#1FA58F"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F26D62"/>
+      <stop offset="1" stop-color="#D9403F"/>
+    </linearGradient>
+    <linearGradient id="slate" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4A5871"/>
+      <stop offset="1" stop-color="#38445A"/>
+    </linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EEF2F7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="512" height="512" rx="64" fill="url(#bg)"/>
+
+  <!-- Row 1: web page, notifications, QR scanning, location -->
+  <rect x="40" y="40" width="136" height="62" rx="14" fill="url(#blue)"/>
+  <circle cx="60" cy="71" r="5" fill="#FFFFFF"/>
+  <circle cx="76" cy="71" r="5" fill="#FFFFFF" fill-opacity="0.75"/>
+  <circle cx="92" cy="71" r="5" fill="#FFFFFF" fill-opacity="0.5"/>
+  <rect x="106" y="63" width="54" height="16" rx="8" fill="#FFFFFF" fill-opacity="0.45"/>
+
+  <rect x="188" y="40" width="62" height="62" rx="14" fill="url(#yellow)"/>
+  <path d="M207 79v-10a12 12 0 0 1 24 0v10l4 6h-32z" fill="#FFFFFF"/>
+  <circle cx="219" cy="89" r="3.5" fill="#FFFFFF"/>
+
+  <rect x="262" y="40" width="62" height="62" rx="14" fill="url(#paper)"/>
+  <g fill="none" stroke="#232B3B" stroke-width="4">
+    <rect x="277" y="55" width="10" height="10" rx="1"/>
+    <rect x="299" y="55" width="10" height="10" rx="1"/>
+    <rect x="277" y="77" width="10" height="10" rx="1"/>
+  </g>
+  <rect x="297" y="75" width="7" height="7" fill="#232B3B"/>
+  <rect x="304" y="82" width="7" height="7" fill="#232B3B"/>
+
+  <rect x="336" y="40" width="136" height="136" rx="14" fill="url(#orange)"/>
+  <path d="M404 68a31 31 0 0 1 31 31c0 23-31 51-31 51s-31-28-31-51a31 31 0 0 1 31-31z" fill="#FFFFFF"/>
+  <circle cx="404" cy="99" r="11.5" fill="#F27C36"/>
+
+  <!-- Row 2: secure storage, page logic, native page wireframe -->
+  <rect x="40" y="114" width="62" height="62" rx="14" fill="url(#teal)"/>
+  <path d="M63 143v-6a8 8 0 0 1 16 0v6" fill="none" stroke="#FFFFFF" stroke-width="4.5"/>
+  <rect x="57" y="142" width="28" height="21" rx="5" fill="#FFFFFF"/>
+
+  <rect x="114" y="114" width="62" height="62" rx="14" fill="url(#red)"/>
+  <path d="M136 135l-10 10 10 10M154 135l10 10-10 10M149 133l-8 24" fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="188" y="114" width="136" height="62" rx="14" fill="url(#slate)"/>
+  <circle cx="214" cy="145" r="13" fill="#FFFFFF" fill-opacity="0.9"/>
+  <rect x="238" y="132" width="68" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.9"/>
+  <rect x="238" y="149" width="44" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.45"/>
+
+  <!-- Rows 3-4: device, name card, camera, calendar -->
+  <rect x="40" y="188" width="62" height="136" rx="14" fill="url(#blue)"/>
+  <rect x="55" y="222" width="32" height="68" rx="8" fill="none" stroke="#FFFFFF" stroke-width="4.5"/>
+  <rect x="63" y="233" width="16" height="16" rx="4" fill="#FFFFFF"/>
+  <rect x="63" y="255" width="16" height="5" rx="2.5" fill="#FFFFFF" fill-opacity="0.6"/>
+  <path d="M66 280h10" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+
+  <rect x="114" y="188" width="284" height="136" rx="16" fill="url(#paper)"/>
+  <text x="256" y="262" text-anchor="middle" textLength="236" lengthAdjust="spacingAndGlyphs" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="38" font-weight="700" fill="#1B2332">App<tspan fill="#1F86D1">Framework</tspan></text>
+  <rect x="204" y="284" width="30" height="8" rx="4" fill="#1F86D1"/>
+  <rect x="241" y="284" width="30" height="8" rx="4" fill="#EE6F2D"/>
+  <rect x="278" y="284" width="30" height="8" rx="4" fill="#1FA58F"/>
+
+  <rect x="410" y="188" width="62" height="62" rx="14" fill="url(#teal)"/>
+  <rect x="434" y="204" width="14" height="9" rx="2.5" fill="#FFFFFF"/>
+  <rect x="424" y="209" width="34" height="25" rx="5" fill="#FFFFFF"/>
+  <circle cx="441" cy="221.500" r="7" fill="#27B39A"/>
+
+  <rect x="410" y="262" width="62" height="62" rx="14" fill="url(#yellow)"/>
+  <rect x="426" y="281" width="30" height="27" rx="5" fill="none" stroke="#FFFFFF" stroke-width="4.5"/>
+  <path d="M426 291h30M434 276v8M448 276v8" fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round"/>
+  <rect x="437" y="296" width="8" height="6" rx="1.5" fill="#FFFFFF"/>
+
+  <!-- Rows 5-6: server updates, menu, update progress, page stack, security, free slot -->
+  <rect x="40" y="336" width="136" height="136" rx="14" fill="url(#red)"/>
+  <path d="M82 428a16 16 0 0 1 0-32a22 22 0 0 1 42-6a20 20 0 0 1 8 38z" fill="#FFFFFF"/>
+  <path d="M106 394v22M97 408l9 9 9-9" fill="none" stroke="#E04B47" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="188" y="336" width="62" height="62" rx="14" fill="url(#paper)"/>
+  <path d="M206 356h26M206 367h26M206 378h26" stroke="#232B3B" stroke-width="5" stroke-linecap="round"/>
+
+  <rect x="262" y="336" width="136" height="62" rx="14" fill="url(#blue)"/>
+  <rect x="280" y="361" width="100" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.4"/>
+  <rect x="280" y="361" width="64" height="12" rx="6" fill="#FFFFFF"/>
+
+  <rect x="410" y="336" width="62" height="136" rx="14" fill="url(#orange)"/>
+  <rect x="427" y="358" width="28" height="28" rx="7" fill="#FFFFFF"/>
+  <rect x="427" y="390" width="28" height="28" rx="7" fill="#FFFFFF" fill-opacity="0.7"/>
+  <rect x="427" y="422" width="28" height="28" rx="7" fill="#FFFFFF" fill-opacity="0.45"/>
+
+  <rect x="188" y="410" width="136" height="62" rx="14" fill="url(#teal)"/>
+  <path d="M214 424l14 5v10c0 9-6 15-14 18c-8-3-14-9-14-18v-10z" fill="#FFFFFF"/>
+  <path d="M208 441l5 5 8-9" fill="none" stroke="#27B39A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="240" y="430" width="66" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.9"/>
+  <rect x="240" y="446" width="42" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.45"/>
+
+  <rect x="337.500" y="411.500" width="59" height="59" rx="13" fill="none" stroke="#5E6C86" stroke-width="3" stroke-dasharray="7 6"/>
+  <path d="M367 430v22M356 441h22" stroke="#8291AC" stroke-width="5" stroke-linecap="round"/>
+</svg>
